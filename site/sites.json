@@ -4,6 +4,96 @@
  "grace_days": 3,
  "sites": [
   {
+   "repo": "ai-board-game-maker",
+   "url": "https://theguysaccount.github.io/ai-board-game-maker/",
+   "kind": "path",
+   "title": "Printable Game Maker: free printable classroom and party games you can edit",
+   "description": "Make free printable games from any word list: bingo, matching cards, a board game, I Have Who Has, word guessing, charades and quiz sheets. Edit online, print the PDF.",
+   "source": "https://github.com/theguysaccount/ai-board-game-maker",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/ai-board-game-maker/sitemap.xml",
+     "type": "urlset",
+     "count": 48,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "ai-memory-videos",
+   "url": "https://theguysaccount.github.io/ai-memory-videos/",
+   "kind": "path",
+   "title": "Grow-Up Video Maker: Morph Photos of One Face Through the Years (Free, Private)",
+   "description": "Turn photos of one person into a grow-up video. Your browser finds the face, lines up the eyes, sorts by date and morphs each photo into the next, with music. Free, no upload, no account.",
+   "source": "https://github.com/theguysaccount/ai-memory-videos",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/ai-memory-videos/sitemap.xml",
+     "type": "urlset",
+     "count": 14,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "aligned-action-candidate-matcher",
+   "url": "https://theguysaccount.github.io/aligned-action-candidate-matcher/",
+   "kind": "path",
+   "title": "Who Votes Like Me: vote on real bills, see who in Congress voted your way",
+   "description": "Vote yea or nay on 24 bills Congress actually voted on, with official summaries, and see which members of the House and Senate voted the same way. Every vote linked to the roll call. Free, nonpartisan, nothing stored.",
+   "source": "https://github.com/theguysaccount/aligned-action-candidate-matcher",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/aligned-action-candidate-matcher/sitemap.xml",
+     "type": "urlset",
+     "count": 848,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "charity-impact-media",
+   "url": "https://theguysaccount.github.io/charity-impact-media/",
+   "kind": "path",
+   "title": "Charity Impact Media: where charities' money goes, from their IRS Form 990",
+   "description": "Free, sourced spending breakdowns of 25,343 US charities from their own Form 990 filings: program share, executive pay, revenue mix and trends. No ratings.",
+   "source": "https://github.com/theguysaccount/charity-impact-media",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/charity-impact-media/sitemap.xml",
+     "type": "urlset",
+     "count": 25473,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "cupidai-soulmatecheck",
+   "url": "https://theguysaccount.github.io/cupidai-soulmatecheck/",
+   "kind": "path",
+   "title": "SoulmateCheck: a free compatibility test you send to a date or partner",
+   "description": "Answer 24 questions about kids, money, conflict and more, send the link, and see how compatible you are. No account, nothing stored.",
+   "source": "https://github.com/theguysaccount/cupidai-soulmatecheck",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/cupidai-soulmatecheck/sitemap.xml",
+     "type": "urlset",
+     "count": 3,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
    "repo": "droid-org",
    "url": "https://market.droid.org/",
    "kind": "domain",
@@ -15,6 +105,69 @@
      "url": "https://market.droid.org/sitemap.xml",
      "type": "urlset",
      "count": 1,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "espn-of-venture",
+   "url": "https://theguysaccount.github.io/espn-of-venture/",
+   "kind": "path",
+   "title": "This week's biggest startup raises from SEC Form D filings | Raise Scoreboard",
+   "description": "Week 43, 2026 (Oct 19–25): $3.24B raised across 246 new Form D filings. Top raise: Modal Labs, Inc. ($602M). League tables by sector, standings by state, updated daily.",
+   "source": "https://github.com/theguysaccount/espn-of-venture",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/espn-of-venture/sitemap.xml",
+     "type": "sitemapindex",
+     "count": 2,
+     "children": [
+      {
+       "loc": "https://theguysaccount.github.io/espn-of-venture/sitemap-pages.xml",
+       "lastmod": "2026-10-23"
+      },
+      {
+       "loc": "https://theguysaccount.github.io/espn-of-venture/sitemap-companies-1.xml",
+       "lastmod": "2026-10-23"
+      }
+     ]
+    }
+   ],
+   "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "family-creed-generator",
+   "url": "https://theguysaccount.github.io/family-creed-generator/",
+   "kind": "path",
+   "title": "Family Crest & Creed Generator: make your family motto and crest together, free",
+   "description": "Make a family creed, motto and heraldic crest together on one phone. Everyone answers privately, you vote on three designs, then print. Free, no sign-up.",
+   "source": "https://github.com/theguysaccount/family-creed-generator",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/family-creed-generator/sitemap.xml",
+     "type": "urlset",
+     "count": 54,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "idea-locator-prophet-fund",
+   "url": "https://theguysaccount.github.io/idea-locator-prophet-fund/",
+   "kind": "path",
+   "title": "Ripeness board: which dead startup categories are viable again | Idea Locator",
+   "description": "Dated, hash-chained calls on whether failed startup categories are ripe again: the constraint that killed each one, the metric that moved since, and a sourced graveyard of funded companies.",
+   "source": "https://github.com/theguysaccount/idea-locator-prophet-fund",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/idea-locator-prophet-fund/sitemap.xml",
+     "type": "urlset",
+     "count": 66,
      "children": []
     }
    ],
@@ -40,6 +193,42 @@
    "failing_since": null
   },
   {
+   "repo": "lifeclock",
+   "url": "https://theguysaccount.github.io/lifeclock/",
+   "kind": "path",
+   "title": "LifeClock: your life in seconds, from public life tables",
+   "description": "How many seconds are ahead of you, on average? A free, private life-expectancy clock built on SSA and WHO life tables. Nothing is stored.",
+   "source": "https://github.com/theguysaccount/lifeclock",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/lifeclock/sitemap.xml",
+     "type": "urlset",
+     "count": 190,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "logo-to-3d-art-generator",
+   "url": "https://theguysaccount.github.io/logo-to-3d-art-generator/",
+   "kind": "path",
+   "title": "Free 3D Logo Maker: Chrome, Gold, Marble, Glass and Neon Logo Animations",
+   "description": "Turn your logo into 3D art in seconds: chrome, gold, marble, glass, neon or your own colours, as a seamless video loop, a PNG or a 3D model (GLB, STL). Free, no signup, and your logo never leaves your device.",
+   "source": "https://github.com/theguysaccount/logo-to-3d-art-generator",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/logo-to-3d-art-generator/sitemap.xml",
+     "type": "urlset",
+     "count": 15,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
    "repo": "open-robotics-nexus",
    "url": "https://theguysaccount.github.io/open-robotics-nexus/",
    "kind": "path",
@@ -51,6 +240,24 @@
      "url": "https://theguysaccount.github.io/open-robotics-nexus/sitemap.xml",
      "type": "urlset",
      "count": 46,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "pitch-judge-investor-game",
+   "url": "https://theguysaccount.github.io/pitch-judge-investor-game/",
+   "kind": "path",
+   "title": "Would You Fund It? A daily startup investing game",
+   "description": "Real startup and TV pitches with the names hidden. Invest or pass, then see whether it became a breakout, a success or a bust. Five new pitches every day.",
+   "source": "https://github.com/theguysaccount/pitch-judge-investor-game",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/pitch-judge-investor-game/sitemap.xml",
+     "type": "urlset",
+     "count": 80,
      "children": []
     }
    ],
@@ -120,6 +327,42 @@
      "url": "https://thesituationmonitor.org/sitemap.xml",
      "type": "urlset",
      "count": 1,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "tinder-for-memes",
+   "url": "https://theguysaccount.github.io/tinder-for-memes/",
+   "kind": "path",
+   "title": "Meme Taste Test: what's your humor type? Swipe 50 memes",
+   "description": "A free meme personality test: swipe 50 memes, get your humor type, and send a link to see whose humor matches yours. No sign-up.",
+   "source": "https://github.com/theguysaccount/tinder-for-memes",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/tinder-for-memes/sitemap.xml",
+     "type": "urlset",
+     "count": 3,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "turing-gun-challenge",
+   "url": "https://theguysaccount.github.io/turing-gun-challenge/",
+   "kind": "path",
+   "title": "Human or AI? A free quiz: can you spot AI writing? | Turing.gun",
+   "description": "Ten rounds of real human answers beside AI ones. Can you tell which is which? Free, no sign-up, scores you can share.",
+   "source": "https://github.com/theguysaccount/turing-gun-challenge",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/turing-gun-challenge/sitemap.xml",
+     "type": "urlset",
+     "count": 3,
      "children": []
     }
    ],

@@ -9,9 +9,22 @@ Allow: /
 
 # This host: the root sitemap index, then each project's own sitemap.
 Sitemap: https://theguysaccount.github.io/sitemap.xml
+Sitemap: https://theguysaccount.github.io/ai-board-game-maker/sitemap.xml
+Sitemap: https://theguysaccount.github.io/ai-memory-videos/sitemap.xml
+Sitemap: https://theguysaccount.github.io/aligned-action-candidate-matcher/sitemap.xml
+Sitemap: https://theguysaccount.github.io/charity-impact-media/sitemap.xml
+Sitemap: https://theguysaccount.github.io/cupidai-soulmatecheck/sitemap.xml
+Sitemap: https://theguysaccount.github.io/espn-of-venture/sitemap.xml
+Sitemap: https://theguysaccount.github.io/family-creed-generator/sitemap.xml
+Sitemap: https://theguysaccount.github.io/idea-locator-prophet-fund/sitemap.xml
 Sitemap: https://theguysaccount.github.io/independents-win-tracker/sitemap.xml
+Sitemap: https://theguysaccount.github.io/lifeclock/sitemap.xml
+Sitemap: https://theguysaccount.github.io/logo-to-3d-art-generator/sitemap.xml
 Sitemap: https://theguysaccount.github.io/open-robotics-nexus/sitemap.xml
+Sitemap: https://theguysaccount.github.io/pitch-judge-investor-game/sitemap.xml
 Sitemap: https://theguysaccount.github.io/psych-sec-social-engineering-defense/sitemap.xml
+Sitemap: https://theguysaccount.github.io/tinder-for-memes/sitemap.xml
+Sitemap: https://theguysaccount.github.io/turing-gun-challenge/sitemap.xml
 Sitemap: https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap.xml
 
 # Project sites on their own domains. Each domain's own robots.txt is the one
