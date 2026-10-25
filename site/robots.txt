@@ -1,0 +1,19 @@
+# https://theguysaccount.github.io/robots.txt
+# Crawlers read robots.txt only at a host's root, so this file speaks for every
+# project site served under https://theguysaccount.github.io/<repo>/.
+# Rebuilt daily from the account's live GitHub Pages sites by
+# https://github.com/theguysaccount/theguysaccount.github.io
+
+User-agent: *
+Allow: /
+
+# This host: the root sitemap index, then each project's own sitemap.
+Sitemap: https://theguysaccount.github.io/sitemap.xml
+Sitemap: https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap.xml
+
+# Project sites on their own domains. Each domain's own robots.txt is the one
+# crawlers obey there; these lines only help discovery.
+Sitemap: https://market.droid.org/sitemap.xml
+Sitemap: https://politicz.org/sitemap-index.xml
+Sitemap: https://politicz.org/sitemap.xml
+Sitemap: https://thesituationmonitor.org/sitemap.xml

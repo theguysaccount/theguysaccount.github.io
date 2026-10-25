@@ -1,0 +1,154 @@
+{
+ "host": "theguysaccount.github.io",
+ "changed_at": "2026-10-25",
+ "grace_days": 3,
+ "sites": [
+  {
+   "repo": "droid-org",
+   "url": "https://market.droid.org/",
+   "kind": "domain",
+   "title": "Droid Market",
+   "description": "Supply chain, robotics, and capital formation. Demand is a clock. Supply is a curve.",
+   "source": "https://github.com/theguysaccount/droid-org",
+   "sitemaps": [
+    {
+     "url": "https://market.droid.org/sitemap.xml",
+     "type": "urlset",
+     "count": 1,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "open-robotics-nexus",
+   "url": "https://theguysaccount.github.io/open-robotics-nexus/",
+   "kind": "path",
+   "title": "Open Robotics Nexus",
+   "description": "A dashboard and research hub for open source robotics projects, resources, benchmarks, and discovery agents.",
+   "source": "https://github.com/theguysaccount/open-robotics-nexus",
+   "sitemaps": [],
+   "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "politicz",
+   "url": "https://politicz.org/",
+   "kind": "domain",
+   "title": "Politicz — Your city. Your voice. Your move.",
+   "description": "Find your local government, understand the rules for taking part, and turn something you care about into one practical next step.",
+   "source": "https://github.com/theguysaccount/politicz",
+   "sitemaps": [
+    {
+     "url": "https://politicz.org/sitemap-index.xml",
+     "type": "sitemapindex",
+     "count": 2,
+     "children": [
+      {
+       "loc": "https://politicz.org/sitemap-core.xml",
+       "lastmod": "2026-09-17"
+      },
+      {
+       "loc": "https://politicz.org/sitemap-states.xml",
+       "lastmod": "2026-09-17"
+      }
+     ]
+    },
+    {
+     "url": "https://politicz.org/sitemap.xml",
+     "type": "urlset",
+     "count": 56,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "situation-monitor",
+   "url": "https://thesituationmonitor.org/",
+   "kind": "domain",
+   "title": "The Situation Monitor",
+   "description": "I am monitoring the situation. A live board of the hacks, breaches, exploited vulnerabilities and ransomware attacks happening now, from 25 public sources, with a master prompt teams use to check their exposure.",
+   "source": "https://github.com/theguysaccount/situation-monitor",
+   "sitemaps": [
+    {
+     "url": "https://thesituationmonitor.org/sitemap.xml",
+     "type": "urlset",
+     "count": 1,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "whofunds-open-grant-graph",
+   "url": "https://theguysaccount.github.io/whofunds-open-grant-graph/",
+   "kind": "path",
+   "title": "WHOFUNDS: who funds whom, from IRS records",
+   "description": "See which private foundations fund any US nonprofit. 1,666,997 grant lines from 123,403 Form 990-PF returns (tax year 2023), matched to recipient EINs, every line linked to its IRS filing. Free, public domain.",
+   "source": "https://github.com/theguysaccount/whofunds-open-grant-graph",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap.xml",
+     "type": "sitemapindex",
+     "count": 12,
+     "children": [
+      {
+       "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-1.xml.gz",
+       "lastmod": "2026-10-25"
+      },
+      {
+       "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-2.xml.gz",
+       "lastmod": "2026-10-25"
+      },
+      {
+       "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-3.xml.gz",
+       "lastmod": "2026-10-25"
+      },
+      {
+       "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-4.xml.gz",
+       "lastmod": "2026-10-25"
+      },
+      {
+       "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-5.xml.gz",
+       "lastmod": "2026-10-25"
+      },
+      {
+       "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-6.xml.gz",
+       "lastmod": "2026-10-25"
+      },
+      {
+       "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-7.xml.gz",
+       "lastmod": "2026-10-25"
+      },
+      {
+       "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-8.xml.gz",
+       "lastmod": "2026-10-25"
+      },
+      {
+       "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-9.xml.gz",
+       "lastmod": "2026-10-25"
+      },
+      {
+       "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-10.xml.gz",
+       "lastmod": "2026-10-25"
+      },
+      {
+       "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-11.xml.gz",
+       "lastmod": "2026-10-25"
+      },
+      {
+       "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-12.xml.gz",
+       "lastmod": "2026-10-25"
+      }
+     ]
+    }
+   ],
+   "first_seen": "2026-10-25",
+   "failing_since": null
+  }
+ ]
+}

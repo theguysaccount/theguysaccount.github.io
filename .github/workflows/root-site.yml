@@ -1,0 +1,104 @@
+# Rebuilds the host root (robots.txt, sitemap index, index page) from the account's live
+# GitHub Pages sites, deploys it, checks the live files and pings IndexNow when the list changed.
+# Third-party actions are pinned to commit SHAs.
+name: Rebuild host root
+
+on:
+  schedule:
+    # Daily, off the top of the hour: GitHub delays and drops scheduled runs at busy minutes.
+    - cron: "17 6 * * *"
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write # commit the regenerated files and the keepalive heartbeat
+    outputs:
+      changed: ${{ steps.discover.outputs.changed }}
+      urls: ${{ steps.discover.outputs.urls }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Unit tests
+        run: python3 -m unittest discover -s tests -v
+
+      # Exits non-zero (and writes nothing) if the API is down or the list would shrink by half,
+      # so a bad run never replaces the last good deploy.
+      - name: Discover live Pages sites and rebuild site/
+        id: discover
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/build_root.py
+
+      - name: Validate site/
+        run: python3 scripts/build_root.py --check
+
+      - name: Commit the regenerated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site
+          if git diff --cached --quiet; then echo "Site list unchanged; nothing to commit."; exit 0; fi
+          git commit -m "Rebuild host root: site list changed"
+          git push
+
+      # GitHub disables scheduled workflows in a public repo after 60 days without activity.
+      - name: Keepalive heartbeat
+        if: github.event_name == 'schedule'
+        run: |
+          age=$(( ( $(date +%s) - $(git log -1 --format=%ct) ) / 86400 ))
+          echo "Last commit was $age day(s) ago."
+          if [ "$age" -ge 30 ]; then
+            date -u +%Y-%m-%dT%H:%M:%SZ > .github/keepalive
+            git add .github/keepalive
+            git commit -m "Keepalive: heartbeat after $age quiet days"
+            git push
+          fi
+
+      - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1
+
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main # includes the commit the build job may have just pushed
+          persist-credentials: false
+
+      # Fails loudly if https://<owner>.github.io/robots.txt or the sitemap index isn't what was built.
+      # Retries for 10 minutes because Pages caches files for up to that long.
+      - name: Check the live host root
+        run: python3 scripts/build_root.py --live --wait 600
+
+      - name: Ping IndexNow
+        if: needs.build.outputs.changed == 'true' || github.event_name != 'schedule'
+        env:
+          URLS: ${{ needs.build.outputs.urls }}
+        run: |
+          base="https://${GITHUB_REPOSITORY_OWNER,,}.github.io/"
+          python3 scripts/indexnow.py --key-file site/449169a34c1b6da6035789a49931ce4b.txt --base "$base" "$base" $URLS
