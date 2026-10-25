@@ -22,13 +22,38 @@
    "failing_since": null
   },
   {
+   "repo": "independents-win-tracker",
+   "url": "https://theguysaccount.github.io/independents-win-tracker/",
+   "kind": "path",
+   "title": "Independents Tracker: can independents win in 2026? Live odds, money, party-line votes",
+   "description": "Live Kalshi and Polymarket odds and FEC money for the 11 independent candidates for Congress in markets for 2026, plus how often every member of Congress votes with their party. Every number sourced and dated.",
+   "source": "https://github.com/theguysaccount/independents-win-tracker",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/independents-win-tracker/sitemap.xml",
+     "type": "urlset",
+     "count": 572,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
    "repo": "open-robotics-nexus",
    "url": "https://theguysaccount.github.io/open-robotics-nexus/",
    "kind": "path",
    "title": "Open Robotics Nexus",
    "description": "A dashboard and research hub for open source robotics projects, resources, benchmarks, and discovery agents.",
    "source": "https://github.com/theguysaccount/open-robotics-nexus",
-   "sitemaps": [],
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/open-robotics-nexus/sitemap.xml",
+     "type": "urlset",
+     "count": 46,
+     "children": []
+    }
+   ],
    "first_seen": "2026-10-25",
    "failing_since": null
   },
@@ -59,6 +84,24 @@
      "url": "https://politicz.org/sitemap.xml",
      "type": "urlset",
      "count": 56,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "psych-sec-social-engineering-defense",
+   "url": "https://theguysaccount.github.io/psych-sec-social-engineering-defense/",
+   "kind": "path",
+   "title": "Spot the Scam: free 2-minute scam test (texts, emails, calls)",
+   "description": "Can you tell a scam text, email or call from a real one? Take the free 2-minute test with realistic, AI-era examples, updated weekly from FTC alerts.",
+   "source": "https://github.com/theguysaccount/psych-sec-social-engineering-defense",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/psych-sec-social-engineering-defense/sitemap.xml",
+     "type": "urlset",
+     "count": 30,
      "children": []
     }
    ],

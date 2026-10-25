@@ -9,6 +9,9 @@ Allow: /
 
 # This host: the root sitemap index, then each project's own sitemap.
 Sitemap: https://theguysaccount.github.io/sitemap.xml
+Sitemap: https://theguysaccount.github.io/independents-win-tracker/sitemap.xml
+Sitemap: https://theguysaccount.github.io/open-robotics-nexus/sitemap.xml
+Sitemap: https://theguysaccount.github.io/psych-sec-social-engineering-defense/sitemap.xml
 Sitemap: https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap.xml
 
 # Project sites on their own domains. Each domain's own robots.txt is the one

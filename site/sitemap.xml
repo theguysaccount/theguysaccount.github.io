@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <sitemap><loc>https://theguysaccount.github.io/sitemap-root.xml</loc><lastmod>2026-10-25</lastmod></sitemap>
+<sitemap><loc>https://theguysaccount.github.io/independents-win-tracker/sitemap.xml</loc></sitemap>
+<sitemap><loc>https://theguysaccount.github.io/open-robotics-nexus/sitemap.xml</loc></sitemap>
+<sitemap><loc>https://theguysaccount.github.io/psych-sec-social-engineering-defense/sitemap.xml</loc></sitemap>
 <sitemap><loc>https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-1.xml.gz</loc><lastmod>2026-10-25</lastmod></sitemap>
 <sitemap><loc>https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-2.xml.gz</loc><lastmod>2026-10-25</lastmod></sitemap>
 <sitemap><loc>https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-3.xml.gz</loc><lastmod>2026-10-25</lastmod></sitemap>
