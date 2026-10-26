@@ -29,7 +29,9 @@ Sitemap: https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap.xml
 
 # Project sites on their own domains. Each domain's own robots.txt is the one
 # crawlers obey there; these lines only help discovery.
+Sitemap: https://charitology.org/sitemap.xml
 Sitemap: https://market.droid.org/sitemap.xml
+Sitemap: https://humanityschecklist.org/sitemap.xml
 Sitemap: https://politicz.org/sitemap-index.xml
 Sitemap: https://politicz.org/sitemap.xml
 Sitemap: https://thesituationmonitor.org/sitemap.xml

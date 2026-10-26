@@ -1,6 +1,6 @@
 {
  "host": "theguysaccount.github.io",
- "changed_at": "2026-10-25",
+ "changed_at": "2026-10-26",
  "grace_days": 3,
  "sites": [
   {
@@ -55,6 +55,24 @@
     }
    ],
    "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "charitology",
+   "url": "https://charitology.org/",
+   "kind": "domain",
+   "title": "Charitology: The science of doing the most good.",
+   "description": "Charitology studies charity as a system: where generosity flows, why it flows there, and how to route it from the symptoms of the world’s problems to their sources.",
+   "source": "https://github.com/theguysaccount/charitology",
+   "sitemaps": [
+    {
+     "url": "https://charitology.org/sitemap.xml",
+     "type": "urlset",
+     "count": 443,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-10-26",
    "failing_since": null
   },
   {
@@ -154,6 +172,24 @@
     }
    ],
    "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "humanityschecklist",
+   "url": "https://humanityschecklist.org/",
+   "kind": "domain",
+   "title": "Humanity's Checklist",
+   "description": "Every world problem grows from a few sources. Humanity's Checklist names the six and the beachhead that flips each one, and asks: what if $5 million, spent systemically, was all it took?",
+   "source": "https://github.com/theguysaccount/humanityschecklist",
+   "sitemaps": [
+    {
+     "url": "https://humanityschecklist.org/sitemap.xml",
+     "type": "urlset",
+     "count": 24,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-10-26",
    "failing_since": null
   },
   {
