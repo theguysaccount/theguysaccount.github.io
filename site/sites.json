@@ -1,6 +1,6 @@
 {
  "host": "theguysaccount.github.io",
- "changed_at": "2026-10-26",
+ "changed_at": "2026-10-27",
  "grace_days": 3,
  "sites": [
   {
@@ -68,7 +68,7 @@
     {
      "url": "https://charitology.org/sitemap.xml",
      "type": "urlset",
-     "count": 443,
+     "count": 444,
      "children": []
     }
    ],
@@ -420,51 +420,51 @@
      "children": [
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-1.xml.gz",
-       "lastmod": "2026-10-25"
+       "lastmod": "2026-10-26"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-2.xml.gz",
-       "lastmod": "2026-10-25"
+       "lastmod": "2026-10-26"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-3.xml.gz",
-       "lastmod": "2026-10-25"
+       "lastmod": "2026-10-26"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-4.xml.gz",
-       "lastmod": "2026-10-25"
+       "lastmod": "2026-10-26"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-5.xml.gz",
-       "lastmod": "2026-10-25"
+       "lastmod": "2026-10-26"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-6.xml.gz",
-       "lastmod": "2026-10-25"
+       "lastmod": "2026-10-26"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-7.xml.gz",
-       "lastmod": "2026-10-25"
+       "lastmod": "2026-10-26"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-8.xml.gz",
-       "lastmod": "2026-10-25"
+       "lastmod": "2026-10-26"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-9.xml.gz",
-       "lastmod": "2026-10-25"
+       "lastmod": "2026-10-26"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-10.xml.gz",
-       "lastmod": "2026-10-25"
+       "lastmod": "2026-10-26"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-11.xml.gz",
-       "lastmod": "2026-10-25"
+       "lastmod": "2026-10-26"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-12.xml.gz",
-       "lastmod": "2026-10-25"
+       "lastmod": "2026-10-26"
       }
      ]
     }
