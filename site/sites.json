@@ -1,6 +1,6 @@
 {
  "host": "theguysaccount.github.io",
- "changed_at": "2026-10-27",
+ "changed_at": "2026-10-28",
  "grace_days": 3,
  "sites": [
   {
@@ -68,7 +68,7 @@
     {
      "url": "https://charitology.org/sitemap.xml",
      "type": "urlset",
-     "count": 444,
+     "count": 477,
      "children": []
     }
    ],
