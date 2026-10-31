@@ -1,6 +1,6 @@
 {
  "host": "theguysaccount.github.io",
- "changed_at": "2026-10-28",
+ "changed_at": "2026-10-31",
  "grace_days": 3,
  "sites": [
   {
@@ -172,6 +172,17 @@
     }
    ],
    "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "govforce",
+   "url": "https://govforce.net/",
+   "kind": "domain",
+   "title": "GovForce · Steer superintelligence together",
+   "description": "An independent convening that simplifies superintelligence governance into seven questions, so many minds can steer by one map.",
+   "source": "https://github.com/theguysaccount/govforce",
+   "sitemaps": [],
+   "first_seen": "2026-10-31",
    "failing_since": null
   },
   {
