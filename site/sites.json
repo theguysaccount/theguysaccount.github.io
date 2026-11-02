@@ -1,6 +1,6 @@
 {
  "host": "theguysaccount.github.io",
- "changed_at": "2026-10-31",
+ "changed_at": "2026-11-02",
  "grace_days": 3,
  "sites": [
   {
@@ -32,7 +32,7 @@
     {
      "url": "https://theguysaccount.github.io/ai-memory-videos/sitemap.xml",
      "type": "urlset",
-     "count": 14,
+     "count": 15,
      "children": []
     }
    ],
@@ -134,7 +134,7 @@
    "url": "https://theguysaccount.github.io/espn-of-venture/",
    "kind": "path",
    "title": "This week's biggest startup raises from SEC Form D filings | Raise Scoreboard",
-   "description": "Week 43, 2026 (Oct 19–25): $3.24B raised across 246 new Form D filings. Top raise: Modal Labs, Inc. ($602M). League tables by sector, standings by state, updated daily.",
+   "description": "Week 44, 2026 (Oct 26 – Nov 1): $2.92B raised across 222 new Form D filings. Top raise: Angle Health, Inc. ($592M). League tables by sector, standings by state, updated daily.",
    "source": "https://github.com/theguysaccount/espn-of-venture",
    "sitemaps": [
     {
@@ -144,11 +144,11 @@
      "children": [
       {
        "loc": "https://theguysaccount.github.io/espn-of-venture/sitemap-pages.xml",
-       "lastmod": "2026-10-23"
+       "lastmod": "2026-10-30"
       },
       {
        "loc": "https://theguysaccount.github.io/espn-of-venture/sitemap-companies-1.xml",
-       "lastmod": "2026-10-23"
+       "lastmod": "2026-10-30"
       }
      ]
     }
@@ -167,7 +167,7 @@
     {
      "url": "https://theguysaccount.github.io/family-creed-generator/sitemap.xml",
      "type": "urlset",
-     "count": 54,
+     "count": 55,
      "children": []
     }
    ],
