@@ -1,6 +1,6 @@
 {
  "host": "theguysaccount.github.io",
- "changed_at": "2026-11-02",
+ "changed_at": "2026-11-03",
  "grace_days": 3,
  "sites": [
   {
@@ -14,7 +14,7 @@
     {
      "url": "https://theguysaccount.github.io/ai-board-game-maker/sitemap.xml",
      "type": "urlset",
-     "count": 48,
+     "count": 49,
      "children": []
     }
    ],
@@ -80,13 +80,13 @@
    "url": "https://theguysaccount.github.io/charity-impact-media/",
    "kind": "path",
    "title": "Charity Impact Media: where charities' money goes, from their IRS Form 990",
-   "description": "Free, sourced spending breakdowns of 25,343 US charities from their own Form 990 filings: program share, executive pay, revenue mix and trends. No ratings.",
+   "description": "Free, sourced spending breakdowns of 25,523 US charities from their own Form 990 filings: program share, executive pay, revenue mix and trends. No ratings.",
    "source": "https://github.com/theguysaccount/charity-impact-media",
    "sitemaps": [
     {
      "url": "https://theguysaccount.github.io/charity-impact-media/sitemap.xml",
      "type": "urlset",
-     "count": 25473,
+     "count": 25653,
      "children": []
     }
    ],
@@ -134,7 +134,7 @@
    "url": "https://theguysaccount.github.io/espn-of-venture/",
    "kind": "path",
    "title": "This week's biggest startup raises from SEC Form D filings | Raise Scoreboard",
-   "description": "Week 44, 2026 (Oct 26 – Nov 1): $2.92B raised across 222 new Form D filings. Top raise: Angle Health, Inc. ($592M). League tables by sector, standings by state, updated daily.",
+   "description": "Week 44, 2026 (Oct 26 – Nov 1): $2.36B raised across 213 new Form D filings. Top raise: Angle Health, Inc. ($592M). League tables by sector, standings by state, updated daily.",
    "source": "https://github.com/theguysaccount/espn-of-venture",
    "sitemaps": [
     {
@@ -268,7 +268,7 @@
     {
      "url": "https://theguysaccount.github.io/logo-to-3d-art-generator/sitemap.xml",
      "type": "urlset",
-     "count": 15,
+     "count": 16,
      "children": []
     }
    ],
@@ -421,7 +421,7 @@
    "url": "https://theguysaccount.github.io/whofunds-open-grant-graph/",
    "kind": "path",
    "title": "WHOFUNDS: who funds whom, from IRS records",
-   "description": "See which private foundations fund any US nonprofit. 1,666,997 grant lines from 123,403 Form 990-PF returns (tax year 2023), matched to recipient EINs, every line linked to its IRS filing. Free, public domain.",
+   "description": "See which private foundations fund any US nonprofit. 1,667,519 grant lines from 123,521 Form 990-PF returns (tax year 2023), matched to recipient EINs, every line linked to its IRS filing. Free, public domain.",
    "source": "https://github.com/theguysaccount/whofunds-open-grant-graph",
    "sitemaps": [
     {
@@ -431,51 +431,51 @@
      "children": [
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-1.xml.gz",
-       "lastmod": "2026-10-26"
+       "lastmod": "2026-11-02"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-2.xml.gz",
-       "lastmod": "2026-10-26"
+       "lastmod": "2026-11-02"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-3.xml.gz",
-       "lastmod": "2026-10-26"
+       "lastmod": "2026-11-02"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-4.xml.gz",
-       "lastmod": "2026-10-26"
+       "lastmod": "2026-11-02"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-5.xml.gz",
-       "lastmod": "2026-10-26"
+       "lastmod": "2026-11-02"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-6.xml.gz",
-       "lastmod": "2026-10-26"
+       "lastmod": "2026-11-02"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-7.xml.gz",
-       "lastmod": "2026-10-26"
+       "lastmod": "2026-11-02"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-8.xml.gz",
-       "lastmod": "2026-10-26"
+       "lastmod": "2026-11-02"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-9.xml.gz",
-       "lastmod": "2026-10-26"
+       "lastmod": "2026-11-02"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-10.xml.gz",
-       "lastmod": "2026-10-26"
+       "lastmod": "2026-11-02"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-11.xml.gz",
-       "lastmod": "2026-10-26"
+       "lastmod": "2026-11-02"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-12.xml.gz",
-       "lastmod": "2026-10-26"
+       "lastmod": "2026-11-02"
       }
      ]
     }
