@@ -1,6 +1,6 @@
 {
  "host": "theguysaccount.github.io",
- "changed_at": "2026-11-04",
+ "changed_at": "2026-11-05",
  "grace_days": 3,
  "sites": [
   {
@@ -226,13 +226,13 @@
    "url": "https://theguysaccount.github.io/independents-win-tracker/",
    "kind": "path",
    "title": "Independents Tracker: can independents win in 2026? Live odds, money, party-line votes",
-   "description": "Live Kalshi and Polymarket odds and FEC money for the 31 independent candidates for Congress in markets for 2026, plus how often every member of Congress votes with their party. Every number sourced and dated.",
+   "description": "Live Kalshi and Polymarket odds and FEC money for the 32 independent candidates for Congress in markets for 2026, plus how often every member of Congress votes with their party. Every number sourced and dated.",
    "source": "https://github.com/theguysaccount/independents-win-tracker",
    "sitemaps": [
     {
      "url": "https://theguysaccount.github.io/independents-win-tracker/sitemap.xml",
      "type": "urlset",
-     "count": 592,
+     "count": 593,
      "children": []
     }
    ],
