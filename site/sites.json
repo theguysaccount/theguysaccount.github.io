@@ -1,6 +1,6 @@
 {
  "host": "theguysaccount.github.io",
- "changed_at": "2026-11-05",
+ "changed_at": "2026-11-09",
  "grace_days": 3,
  "sites": [
   {
@@ -32,7 +32,7 @@
     {
      "url": "https://theguysaccount.github.io/ai-memory-videos/sitemap.xml",
      "type": "urlset",
-     "count": 15,
+     "count": 16,
      "children": []
     }
    ],
@@ -68,7 +68,7 @@
     {
      "url": "https://charitology.org/sitemap.xml",
      "type": "urlset",
-     "count": 477,
+     "count": 480,
      "children": []
     }
    ],
@@ -134,7 +134,7 @@
    "url": "https://theguysaccount.github.io/espn-of-venture/",
    "kind": "path",
    "title": "This week's biggest startup raises from SEC Form D filings | Raise Scoreboard",
-   "description": "Week 44, 2026 (Oct 26 – Nov 1): $2.36B raised across 213 new Form D filings. Top raise: Angle Health, Inc. ($592M). League tables by sector, standings by state, updated daily.",
+   "description": "Week 45, 2026 (Nov 2–8): $9.21B raised across 275 new Form D filings. Top raise: AT Umbrella LLC ($1.92B). League tables by sector, standings by state, updated daily.",
    "source": "https://github.com/theguysaccount/espn-of-venture",
    "sitemaps": [
     {
@@ -144,11 +144,11 @@
      "children": [
       {
        "loc": "https://theguysaccount.github.io/espn-of-venture/sitemap-pages.xml",
-       "lastmod": "2026-10-30"
+       "lastmod": "2026-11-06"
       },
       {
        "loc": "https://theguysaccount.github.io/espn-of-venture/sitemap-companies-1.xml",
-       "lastmod": "2026-10-30"
+       "lastmod": "2026-11-06"
       }
      ]
     }
@@ -167,11 +167,29 @@
     {
      "url": "https://theguysaccount.github.io/family-creed-generator/sitemap.xml",
      "type": "urlset",
-     "count": 55,
+     "count": 56,
      "children": []
     }
    ],
    "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "fraudbad",
+   "url": "https://fraudbad.com/",
+   "kind": "domain",
+   "title": "FraudBad: up to $521 billion a year lost to fraud. Here's every big case.",
+   "description": "Every major fraud case in federal, state and local spending, sourced to auditors, inspectors general and courts — and a map of where the receipts stop.",
+   "source": "https://github.com/theguysaccount/fraudbad",
+   "sitemaps": [
+    {
+     "url": "https://fraudbad.com/sitemap.xml",
+     "type": "urlset",
+     "count": 48,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-09",
    "failing_since": null
   },
   {

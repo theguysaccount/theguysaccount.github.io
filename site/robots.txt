@@ -31,6 +31,7 @@ Sitemap: https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap.xml
 # crawlers obey there; these lines only help discovery.
 Sitemap: https://charitology.org/sitemap.xml
 Sitemap: https://market.droid.org/sitemap.xml
+Sitemap: https://fraudbad.com/sitemap.xml
 Sitemap: https://humanityschecklist.org/sitemap.xml
 Sitemap: https://politicz.org/sitemap-index.xml
 Sitemap: https://politicz.org/sitemap.xml
