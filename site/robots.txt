@@ -12,6 +12,7 @@ Sitemap: https://theguysaccount.github.io/sitemap.xml
 Sitemap: https://theguysaccount.github.io/ai-board-game-maker/sitemap.xml
 Sitemap: https://theguysaccount.github.io/ai-memory-videos/sitemap.xml
 Sitemap: https://theguysaccount.github.io/aligned-action-candidate-matcher/sitemap.xml
+Sitemap: https://theguysaccount.github.io/america-house-brand-gifting-pipeline/sitemap.xml
 Sitemap: https://theguysaccount.github.io/charity-impact-media/sitemap.xml
 Sitemap: https://theguysaccount.github.io/cupidai-soulmatecheck/sitemap.xml
 Sitemap: https://theguysaccount.github.io/espn-of-venture/sitemap.xml

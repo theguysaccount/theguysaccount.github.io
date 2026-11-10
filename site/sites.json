@@ -1,6 +1,6 @@
 {
  "host": "theguysaccount.github.io",
- "changed_at": "2026-11-09",
+ "changed_at": "2026-11-10",
  "grace_days": 3,
  "sites": [
   {
@@ -14,7 +14,7 @@
     {
      "url": "https://theguysaccount.github.io/ai-board-game-maker/sitemap.xml",
      "type": "urlset",
-     "count": 49,
+     "count": 50,
      "children": []
     }
    ],
@@ -58,6 +58,46 @@
    "failing_since": null
   },
   {
+   "repo": "america-co-civic-movement-hub",
+   "url": "https://theguysaccount.github.io/america-co-civic-movement-hub/",
+   "kind": "path",
+   "title": "America.co Public Tools: Taxpayer Receipt, Comment Deadlines, FOIA Builder",
+   "description": "Three free public tools with no account: a receipt for your federal taxes, every federal rule open for public comment, and a clear FOIA request you can send today.",
+   "source": "https://github.com/theguysaccount/america-co-civic-movement-hub",
+   "sitemaps": [],
+   "first_seen": "2026-11-10",
+   "failing_since": null
+  },
+  {
+   "repo": "america-house-brand-gifting-pipeline",
+   "url": "https://theguysaccount.github.io/america-house-brand-gifting-pipeline/",
+   "kind": "path",
+   "title": "Creator Program Directory: brands with open ambassador, creator and affiliate applications",
+   "description": "Brands with open ambassador, creator, affiliate and gifting applications, re-checked every week.",
+   "source": "https://github.com/theguysaccount/america-house-brand-gifting-pipeline",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/america-house-brand-gifting-pipeline/sitemap.xml",
+     "type": "urlset",
+     "count": 81,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-10",
+   "failing_since": null
+  },
+  {
+   "repo": "america-v2-civic-evidence-network",
+   "url": "https://theguysaccount.github.io/america-v2-civic-evidence-network/",
+   "kind": "path",
+   "title": "AuditLine: federal oversight recommendations and what the publisher says happened next",
+   "description": "Every official warning, and what the publisher says happened next: federal inspector-general recommendations, one page each, with the publisher's own status and a dated history.",
+   "source": "https://github.com/theguysaccount/america-v2-civic-evidence-network",
+   "sitemaps": [],
+   "first_seen": "2026-11-10",
+   "failing_since": null
+  },
+  {
    "repo": "charitology",
    "url": "https://charitology.org/",
    "kind": "domain",
@@ -80,13 +120,13 @@
    "url": "https://theguysaccount.github.io/charity-impact-media/",
    "kind": "path",
    "title": "Charity Impact Media: where charities' money goes, from their IRS Form 990",
-   "description": "Free, sourced spending breakdowns of 25,523 US charities from their own Form 990 filings: program share, executive pay, revenue mix and trends. No ratings.",
+   "description": "Free, sourced spending breakdowns of 25,526 US charities from their own Form 990 filings: program share, executive pay, revenue mix and trends. No ratings.",
    "source": "https://github.com/theguysaccount/charity-impact-media",
    "sitemaps": [
     {
      "url": "https://theguysaccount.github.io/charity-impact-media/sitemap.xml",
      "type": "urlset",
-     "count": 25653,
+     "count": 25656,
      "children": []
     }
    ],
@@ -134,7 +174,7 @@
    "url": "https://theguysaccount.github.io/espn-of-venture/",
    "kind": "path",
    "title": "This week's biggest startup raises from SEC Form D filings | Raise Scoreboard",
-   "description": "Week 45, 2026 (Nov 2–8): $9.21B raised across 275 new Form D filings. Top raise: AT Umbrella LLC ($1.92B). League tables by sector, standings by state, updated daily.",
+   "description": "Week 45, 2026 (Nov 2–8): $4.11B raised across 259 new Form D filings. Top raise: NorthPoint Growth & Income Partners, LP ($1.26B). League tables by sector, standings by state, updated daily.",
    "source": "https://github.com/theguysaccount/espn-of-venture",
    "sitemaps": [
     {
@@ -178,14 +218,14 @@
    "repo": "fraudbad",
    "url": "https://fraudbad.com/",
    "kind": "domain",
-   "title": "FraudBad: up to $521 billion a year lost to fraud. Here's every big case.",
+   "title": "FraudBad: up to $521 billion a year lost to fraud. Here's every big…",
    "description": "Every major fraud case in federal, state and local spending, sourced to auditors, inspectors general and courts — and a map of where the receipts stop.",
    "source": "https://github.com/theguysaccount/fraudbad",
    "sitemaps": [
     {
      "url": "https://fraudbad.com/sitemap.xml",
      "type": "urlset",
-     "count": 48,
+     "count": 274,
      "children": []
     }
    ],
@@ -240,17 +280,28 @@
    "failing_since": null
   },
   {
+   "repo": "impactline-law-to-outcome-tracker",
+   "url": "https://theguysaccount.github.io/impactline-law-to-outcome-tracker/",
+   "kind": "path",
+   "title": "ImpactLine: the public delivery record",
+   "description": "The public delivery record: follow an enacted law to its Federal Register trail and its spending, with the gaps left visible.",
+   "source": "https://github.com/theguysaccount/impactline-law-to-outcome-tracker",
+   "sitemaps": [],
+   "first_seen": "2026-11-10",
+   "failing_since": null
+  },
+  {
    "repo": "independents-win-tracker",
    "url": "https://theguysaccount.github.io/independents-win-tracker/",
    "kind": "path",
-   "title": "Independents Tracker: can independents win in 2026? Live odds, money, party-line votes",
-   "description": "Live Kalshi and Polymarket odds and FEC money for the 32 independent candidates for Congress in markets for 2026, plus how often every member of Congress votes with their party. Every number sourced and dated.",
+   "title": "2026 results for independent candidates, and party-line voting in Congress | Independents Tracker",
+   "description": "How Kalshi and Polymarket resolved the 2026 House and Senate races of 11 independent candidates, with links to each market and the states' official results, plus a party-line score for every member of Congress.",
    "source": "https://github.com/theguysaccount/independents-win-tracker",
    "sitemaps": [
     {
      "url": "https://theguysaccount.github.io/independents-win-tracker/sitemap.xml",
      "type": "urlset",
-     "count": 593,
+     "count": 573,
      "children": []
     }
    ],
@@ -286,7 +337,7 @@
     {
      "url": "https://theguysaccount.github.io/logo-to-3d-art-generator/sitemap.xml",
      "type": "urlset",
-     "count": 16,
+     "count": 17,
      "children": []
     }
    ],
@@ -439,7 +490,7 @@
    "url": "https://theguysaccount.github.io/whofunds-open-grant-graph/",
    "kind": "path",
    "title": "WHOFUNDS: who funds whom, from IRS records",
-   "description": "See which private foundations fund any US nonprofit. 1,667,519 grant lines from 123,521 Form 990-PF returns (tax year 2023), matched to recipient EINs, every line linked to its IRS filing. Free, public domain.",
+   "description": "See which private foundations fund any US nonprofit. 1,667,440 grant lines from 123,521 Form 990-PF returns (tax year 2023), matched to recipient EINs, every line linked to its IRS filing. Free, public domain.",
    "source": "https://github.com/theguysaccount/whofunds-open-grant-graph",
    "sitemaps": [
     {
@@ -449,51 +500,51 @@
      "children": [
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-1.xml.gz",
-       "lastmod": "2026-11-02"
+       "lastmod": "2026-11-10"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-2.xml.gz",
-       "lastmod": "2026-11-02"
+       "lastmod": "2026-11-10"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-3.xml.gz",
-       "lastmod": "2026-11-02"
+       "lastmod": "2026-11-10"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-4.xml.gz",
-       "lastmod": "2026-11-02"
+       "lastmod": "2026-11-10"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-5.xml.gz",
-       "lastmod": "2026-11-02"
+       "lastmod": "2026-11-10"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-6.xml.gz",
-       "lastmod": "2026-11-02"
+       "lastmod": "2026-11-10"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-7.xml.gz",
-       "lastmod": "2026-11-02"
+       "lastmod": "2026-11-10"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-8.xml.gz",
-       "lastmod": "2026-11-02"
+       "lastmod": "2026-11-10"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-9.xml.gz",
-       "lastmod": "2026-11-02"
+       "lastmod": "2026-11-10"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-10.xml.gz",
-       "lastmod": "2026-11-02"
+       "lastmod": "2026-11-10"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-11.xml.gz",
-       "lastmod": "2026-11-02"
+       "lastmod": "2026-11-10"
       },
       {
        "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-12.xml.gz",
-       "lastmod": "2026-11-02"
+       "lastmod": "2026-11-10"
       }
      ]
     }
