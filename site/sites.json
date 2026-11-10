@@ -309,6 +309,17 @@
    "failing_since": null
   },
   {
+   "repo": "jesionowski.org",
+   "url": "https://jesionowski.org/",
+   "kind": "domain",
+   "title": "Jesionowski Family · Rooted in trust. Growing toward light.",
+   "description": "The Jesionowski family’s field guide to Polish roots, neurodivergent belonging, trust and futures we can build together.",
+   "source": "https://github.com/theguysaccount/jesionowski.org",
+   "sitemaps": [],
+   "first_seen": "2026-11-10",
+   "failing_since": null
+  },
+  {
    "repo": "lifeclock",
    "url": "https://theguysaccount.github.io/lifeclock/",
    "kind": "path",
