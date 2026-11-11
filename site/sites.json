@@ -1,6 +1,6 @@
 {
  "host": "theguysaccount.github.io",
- "changed_at": "2026-11-10",
+ "changed_at": "2026-11-11",
  "grace_days": 3,
  "sites": [
   {
@@ -99,14 +99,14 @@
   },
   {
    "repo": "charitology",
-   "url": "https://charitology.org/",
+   "url": "https://publish.charitology.com/",
    "kind": "domain",
    "title": "Charitology: The science of doing the most good.",
    "description": "Charitology studies charity as a system: where generosity flows, why it flows there, and how to route it from the symptoms of the world’s problems to their sources.",
    "source": "https://github.com/theguysaccount/charitology",
    "sitemaps": [
     {
-     "url": "https://charitology.org/sitemap.xml",
+     "url": "https://publish.charitology.com/sitemap.xml",
      "type": "urlset",
      "count": 480,
      "children": []
