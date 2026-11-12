@@ -1,6 +1,6 @@
 {
  "host": "theguysaccount.github.io",
- "changed_at": "2026-11-11",
+ "changed_at": "2026-11-12",
  "grace_days": 3,
  "sites": [
   {
@@ -50,7 +50,7 @@
     {
      "url": "https://theguysaccount.github.io/aligned-action-candidate-matcher/sitemap.xml",
      "type": "urlset",
-     "count": 848,
+     "count": 849,
      "children": []
     }
    ],
