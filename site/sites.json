@@ -1,6 +1,6 @@
 {
  "host": "theguysaccount.github.io",
- "changed_at": "2026-11-12",
+ "changed_at": "2026-11-16",
  "grace_days": 3,
  "sites": [
   {
@@ -32,7 +32,7 @@
     {
      "url": "https://theguysaccount.github.io/ai-memory-videos/sitemap.xml",
      "type": "urlset",
-     "count": 16,
+     "count": 17,
      "children": []
     }
    ],
@@ -174,7 +174,7 @@
    "url": "https://theguysaccount.github.io/espn-of-venture/",
    "kind": "path",
    "title": "This week's biggest startup raises from SEC Form D filings | Raise Scoreboard",
-   "description": "Week 45, 2026 (Nov 2–8): $4.11B raised across 259 new Form D filings. Top raise: NorthPoint Growth & Income Partners, LP ($1.26B). League tables by sector, standings by state, updated daily.",
+   "description": "Week 46, 2026 (Nov 9–15): $3.93B raised across 233 new Form D filings. Top raise: fal - Features & Labels, Inc. ($1.03B). League tables by sector, standings by state, updated daily.",
    "source": "https://github.com/theguysaccount/espn-of-venture",
    "sitemaps": [
     {
@@ -184,11 +184,11 @@
      "children": [
       {
        "loc": "https://theguysaccount.github.io/espn-of-venture/sitemap-pages.xml",
-       "lastmod": "2026-11-06"
+       "lastmod": "2026-11-13"
       },
       {
        "loc": "https://theguysaccount.github.io/espn-of-venture/sitemap-companies-1.xml",
-       "lastmod": "2026-11-06"
+       "lastmod": "2026-11-13"
       }
      ]
     }
@@ -207,7 +207,7 @@
     {
      "url": "https://theguysaccount.github.io/family-creed-generator/sitemap.xml",
      "type": "urlset",
-     "count": 56,
+     "count": 57,
      "children": []
     }
    ],
