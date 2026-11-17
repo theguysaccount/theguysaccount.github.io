@@ -1,6 +1,6 @@
 {
  "host": "theguysaccount.github.io",
- "changed_at": "2026-11-16",
+ "changed_at": "2026-11-17",
  "grace_days": 3,
  "sites": [
   {
@@ -14,7 +14,7 @@
     {
      "url": "https://theguysaccount.github.io/ai-board-game-maker/sitemap.xml",
      "type": "urlset",
-     "count": 50,
+     "count": 51,
      "children": []
     }
    ],
@@ -174,7 +174,7 @@
    "url": "https://theguysaccount.github.io/espn-of-venture/",
    "kind": "path",
    "title": "This week's biggest startup raises from SEC Form D filings | Raise Scoreboard",
-   "description": "Week 46, 2026 (Nov 9–15): $3.93B raised across 233 new Form D filings. Top raise: fal - Features & Labels, Inc. ($1.03B). League tables by sector, standings by state, updated daily.",
+   "description": "Week 46, 2026 (Nov 9–15): $3.77B raised across 221 new Form D filings. Top raise: fal - Features & Labels, Inc. ($1.03B). League tables by sector, standings by state, updated daily.",
    "source": "https://github.com/theguysaccount/espn-of-venture",
    "sitemaps": [
     {
@@ -348,7 +348,7 @@
     {
      "url": "https://theguysaccount.github.io/logo-to-3d-art-generator/sitemap.xml",
      "type": "urlset",
-     "count": 17,
+     "count": 18,
      "children": []
     }
    ],
