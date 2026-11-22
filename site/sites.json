@@ -311,7 +311,14 @@
    "title": "ImpactLine: the public delivery record",
    "description": "The public delivery record: follow an enacted law to its Federal Register trail and its spending, with the gaps left visible.",
    "source": "https://github.com/theguysaccount/impactline-law-to-outcome-tracker",
-   "sitemaps": [],
+   "sitemaps": [
+    {
+     "url": "https://data.impactline.org/sitemap.xml",
+     "type": "urlset",
+     "count": 785,
+     "children": []
+    }
+   ],
    "first_seen": "2026-11-10",
    "failing_since": null
   },
