@@ -88,12 +88,19 @@
   },
   {
    "repo": "america-v2-civic-evidence-network",
-   "url": "https://theguysaccount.github.io/america-v2-civic-evidence-network/",
-   "kind": "path",
+   "url": "https://data.americav2.org/",
+   "kind": "domain",
    "title": "AuditLine: federal oversight recommendations and what the publisher says happened next",
    "description": "Every official warning, and what the publisher says happened next: federal inspector-general recommendations, one page each, with the publisher's own status and a dated history.",
    "source": "https://github.com/theguysaccount/america-v2-civic-evidence-network",
-   "sitemaps": [],
+   "sitemaps": [
+    {
+     "url": "https://data.americav2.org/sitemap.xml",
+     "type": "urlset",
+     "count": 8158,
+     "children": []
+    }
+   ],
    "first_seen": "2026-11-10",
    "failing_since": null
   },
@@ -135,14 +142,14 @@
   },
   {
    "repo": "cupidai-soulmatecheck",
-   "url": "https://theguysaccount.github.io/cupidai-soulmatecheck/",
-   "kind": "path",
+   "url": "https://app.soulmatecheck.com/",
+   "kind": "domain",
    "title": "SoulmateCheck: a free compatibility test you send to a date or partner",
    "description": "Answer 24 questions about kids, money, conflict and more, send the link, and see how compatible you are. No account, nothing stored.",
    "source": "https://github.com/theguysaccount/cupidai-soulmatecheck",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/cupidai-soulmatecheck/sitemap.xml",
+     "url": "https://app.soulmatecheck.com/sitemap.xml",
      "type": "urlset",
      "count": 3,
      "children": []
@@ -281,8 +288,8 @@
   },
   {
    "repo": "impactline-law-to-outcome-tracker",
-   "url": "https://theguysaccount.github.io/impactline-law-to-outcome-tracker/",
-   "kind": "path",
+   "url": "https://data.impactline.org/",
+   "kind": "domain",
    "title": "ImpactLine: the public delivery record",
    "description": "The public delivery record: follow an enacted law to its Federal Register trail and its spending, with the gaps left visible.",
    "source": "https://github.com/theguysaccount/impactline-law-to-outcome-tracker",
@@ -339,14 +346,14 @@
   },
   {
    "repo": "lifeclock",
-   "url": "https://theguysaccount.github.io/lifeclock/",
-   "kind": "path",
+   "url": "https://app.getlifeclock.com/",
+   "kind": "domain",
    "title": "LifeClock: your life in seconds, from public life tables",
    "description": "How many seconds are ahead of you, on average? A free, private life-expectancy clock built on SSA and WHO life tables. Nothing is stored.",
    "source": "https://github.com/theguysaccount/lifeclock",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/lifeclock/sitemap.xml",
+     "url": "https://app.getlifeclock.com/sitemap.xml",
      "type": "urlset",
      "count": 190,
      "children": []
@@ -443,6 +450,24 @@
    "failing_since": null
   },
   {
+   "repo": "proof-of-human-writing",
+   "url": "https://theguysaccount.github.io/proof-of-human-writing/",
+   "kind": "path",
+   "title": "Writing Replay: show how you wrote it",
+   "description": "A free editor that records how your writing was typed, pauses, corrections, pastes and all, and exports a replay a teacher or editor can watch. Nothing leaves your device.",
+   "source": "https://github.com/theguysaccount/proof-of-human-writing",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/proof-of-human-writing/sitemap.xml",
+     "type": "urlset",
+     "count": 10,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
    "repo": "psych-sec-social-engineering-defense",
    "url": "https://scams.systemicaltruism.org/",
    "kind": "domain",
@@ -476,6 +501,24 @@
     }
    ],
    "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "speed-run-heaven-civic-game",
+   "url": "https://theguysaccount.github.io/speed-run-heaven-civic-game/",
+   "kind": "path",
+   "title": "Speed Run Heaven — Free Idle Clicker About Public AI & Robots",
+   "description": "A free browser incremental game. Start as one citizen, win a peaceful democratic mandate, turn AI and robotics into public infrastructure, and race the clock to a future with more time for everyone. A work of fiction. No account, no ads.",
+   "source": "https://github.com/theguysaccount/speed-run-heaven-civic-game",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/speed-run-heaven-civic-game/sitemap.xml",
+     "type": "urlset",
+     "count": 3,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
    "failing_since": null
   },
   {
