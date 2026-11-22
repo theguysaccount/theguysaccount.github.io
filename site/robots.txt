@@ -25,10 +25,13 @@ Sitemap: https://theguysaccount.github.io/meme-search-engine/sitemap.xml
 Sitemap: https://theguysaccount.github.io/pres2028-citizen-game/sitemap.xml
 Sitemap: https://theguysaccount.github.io/proof-of-human-writing/sitemap.xml
 Sitemap: https://theguysaccount.github.io/pumpfun-for-companies-dynamic-equity/sitemap.xml
+Sitemap: https://theguysaccount.github.io/rabbithole-3d-learning-feed/sitemap.xml
 Sitemap: https://theguysaccount.github.io/response-ability-attention-gap-board/sitemap.xml
+Sitemap: https://theguysaccount.github.io/set-u-language-genealogy/sitemap.xml
 Sitemap: https://theguysaccount.github.io/speed-run-heaven-civic-game/sitemap.xml
 Sitemap: https://theguysaccount.github.io/supermind-killers-site/sitemap.xml
 Sitemap: https://theguysaccount.github.io/symbaiosis-ai-video-editor/sitemap.xml
+Sitemap: https://theguysaccount.github.io/transcendental-meditation-generator/sitemap.xml
 Sitemap: https://theguysaccount.github.io/turing-gun-challenge/sitemap.xml
 Sitemap: https://theguysaccount.github.io/verifiedreality-video-provenance/sitemap.xml
 

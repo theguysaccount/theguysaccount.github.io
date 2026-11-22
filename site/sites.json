@@ -655,6 +655,24 @@
    "failing_since": null
   },
   {
+   "repo": "rabbithole-3d-learning-feed",
+   "url": "https://theguysaccount.github.io/rabbithole-3d-learning-feed/",
+   "kind": "path",
+   "title": "Rabbit Hole: turn YouTube videos into a path people can explore",
+   "description": "Arrange YouTube videos into a main track with side paths that go deeper. Viewers swipe down for the next clip and sideways to dig in. Free branching video builder, shared as one link.",
+   "source": "https://github.com/theguysaccount/rabbithole-3d-learning-feed",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/rabbithole-3d-learning-feed/sitemap.xml",
+     "type": "urlset",
+     "count": 13,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
    "repo": "response-ability-attention-gap-board",
    "url": "https://theguysaccount.github.io/response-ability-attention-gap-board/",
    "kind": "path",
@@ -666,6 +684,24 @@
      "url": "https://theguysaccount.github.io/response-ability-attention-gap-board/sitemap.xml",
      "type": "urlset",
      "count": 40,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
+   "repo": "set-u-language-genealogy",
+   "url": "https://theguysaccount.github.io/set-u-language-genealogy/",
+   "kind": "path",
+   "title": "*SET-U open data: cited word histories and the etymology graph, free to download",
+   "description": "214 reviewed etymology dossiers with 1,025 cited relationships back to the limits of knowledge, plus every *SET-U dataset as JSON, CSV and SQLite.",
+   "source": "https://github.com/theguysaccount/set-u-language-genealogy",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/set-u-language-genealogy/sitemap.xml",
+     "type": "urlset",
+     "count": 3,
      "children": []
     }
    ],
@@ -760,6 +796,24 @@
     }
    ],
    "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "transcendental-meditation-generator",
+   "url": "https://theguysaccount.github.io/transcendental-meditation-generator/",
+   "kind": "path",
+   "title": "Hum & Bell: a free meditation session, generated fresh each time",
+   "description": "Pick a length and a practice. Get a meditation session made for you in your browser: a slow drone, bells, gentle voice guidance and a timer. Free, no app, no account.",
+   "source": "https://github.com/theguysaccount/transcendental-meditation-generator",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/transcendental-meditation-generator/sitemap.xml",
+     "type": "urlset",
+     "count": 13,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
    "failing_since": null
   },
   {
