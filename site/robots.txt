@@ -10,15 +10,15 @@ Allow: /
 # This host: the root sitemap index, then each project's own sitemap.
 Sitemap: https://theguysaccount.github.io/sitemap.xml
 Sitemap: https://theguysaccount.github.io/ai-board-game-maker/sitemap.xml
+Sitemap: https://theguysaccount.github.io/ai-data-collection-audit-agency/sitemap.xml
 Sitemap: https://theguysaccount.github.io/ai-memory-videos/sitemap.xml
 Sitemap: https://theguysaccount.github.io/aligned-action-candidate-matcher/sitemap.xml
 Sitemap: https://theguysaccount.github.io/family-creed-generator/sitemap.xml
 Sitemap: https://theguysaccount.github.io/independents-win-tracker/sitemap.xml
+Sitemap: https://theguysaccount.github.io/land-index-fund/sitemap.xml
 Sitemap: https://theguysaccount.github.io/life-incremental-game/sitemap.xml
-Sitemap: https://theguysaccount.github.io/logo-to-3d-art-generator/sitemap.xml
 Sitemap: https://theguysaccount.github.io/proof-of-human-writing/sitemap.xml
 Sitemap: https://theguysaccount.github.io/speed-run-heaven-civic-game/sitemap.xml
-Sitemap: https://theguysaccount.github.io/tinder-for-memes/sitemap.xml
 Sitemap: https://theguysaccount.github.io/turing-gun-challenge/sitemap.xml
 
 # Project sites on their own domains. Each domain's own robots.txt is the one
@@ -34,10 +34,12 @@ Sitemap: https://fraudbad.com/sitemap.xml
 Sitemap: https://humanityschecklist.org/sitemap.xml
 Sitemap: https://prophetventures.org/sitemap.xml
 Sitemap: https://app.getlifeclock.com/sitemap.xml
+Sitemap: https://3d.gifstudios.com/sitemap.xml
 Sitemap: https://nexus.roboticshouse.org/sitemap.xml
 Sitemap: https://play.silicontank.com/sitemap.xml
 Sitemap: https://politicz.org/sitemap-index.xml
 Sitemap: https://politicz.org/sitemap.xml
 Sitemap: https://scams.systemicaltruism.org/sitemap.xml
 Sitemap: https://thesituationmonitor.org/sitemap.xml
+Sitemap: https://play.mememates.org/sitemap.xml
 Sitemap: https://whofunds.systemicaltruism.org/sitemap.xml

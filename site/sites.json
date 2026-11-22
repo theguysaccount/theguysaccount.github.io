@@ -22,6 +22,24 @@
    "failing_since": null
   },
   {
+   "repo": "ai-data-collection-audit-agency",
+   "url": "https://theguysaccount.github.io/ai-data-collection-audit-agency/",
+   "kind": "path",
+   "title": "Which AI apps train on your chats? | AI Privacy Scorecard",
+   "description": "Does ChatGPT, Gemini, Claude or Grok train on your chats? Scorecards of what AI apps' own privacy policies say about training, retention, deletion and human review, with quotes and opt-out steps.",
+   "source": "https://github.com/theguysaccount/ai-data-collection-audit-agency",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/ai-data-collection-audit-agency/sitemap.xml",
+     "type": "urlset",
+     "count": 12,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
    "repo": "ai-memory-videos",
    "url": "https://theguysaccount.github.io/ai-memory-videos/",
    "kind": "path",
@@ -327,6 +345,24 @@
    "failing_since": null
   },
   {
+   "repo": "land-index-fund",
+   "url": "https://theguysaccount.github.io/land-index-fund/",
+   "kind": "path",
+   "title": "US land prices per acre by county | US County Land Index",
+   "description": "Free land price index for 3,115 US counties: farm real estate value per acre from USDA's Census of Agriculture and annual survey, cash rents, and FHFA residential land values. US average $4,500 per acre in 2026.",
+   "source": "https://github.com/theguysaccount/land-index-fund",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/land-index-fund/sitemap.xml",
+     "type": "urlset",
+     "count": 3171,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
    "repo": "life-incremental-game",
    "url": "https://theguysaccount.github.io/life-incremental-game/",
    "kind": "path",
@@ -364,14 +400,14 @@
   },
   {
    "repo": "logo-to-3d-art-generator",
-   "url": "https://theguysaccount.github.io/logo-to-3d-art-generator/",
-   "kind": "path",
+   "url": "https://3d.gifstudios.com/",
+   "kind": "domain",
    "title": "Free 3D Logo Maker: Chrome, Gold, Marble, Glass and Neon Logo Animations",
    "description": "Turn your logo into 3D art in seconds: chrome, gold, marble, glass, neon or your own colours, as a seamless video loop, a PNG or a 3D model (GLB, STL). Free, no signup, and your logo never leaves your device.",
    "source": "https://github.com/theguysaccount/logo-to-3d-art-generator",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/logo-to-3d-art-generator/sitemap.xml",
+     "url": "https://3d.gifstudios.com/sitemap.xml",
      "type": "urlset",
      "count": 18,
      "children": []
@@ -523,14 +559,14 @@
   },
   {
    "repo": "tinder-for-memes",
-   "url": "https://theguysaccount.github.io/tinder-for-memes/",
-   "kind": "path",
+   "url": "https://play.mememates.org/",
+   "kind": "domain",
    "title": "Meme Taste Test: what's your humor type? Swipe 50 memes",
    "description": "A free meme personality test: swipe 50 memes, get your humor type, and send a link to see whose humor matches yours. No sign-up.",
    "source": "https://github.com/theguysaccount/tinder-for-memes",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/tinder-for-memes/sitemap.xml",
+     "url": "https://play.mememates.org/sitemap.xml",
      "type": "urlset",
      "count": 3,
      "children": []
