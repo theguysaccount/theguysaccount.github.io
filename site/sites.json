@@ -1,6 +1,6 @@
 {
  "host": "theguysaccount.github.io",
- "changed_at": "2026-11-20",
+ "changed_at": "2026-11-22",
  "grace_days": 3,
  "sites": [
   {
@@ -70,14 +70,14 @@
   },
   {
    "repo": "america-house-brand-gifting-pipeline",
-   "url": "https://theguysaccount.github.io/america-house-brand-gifting-pipeline/",
-   "kind": "path",
+   "url": "https://programs.collabcupid.com/",
+   "kind": "domain",
    "title": "Creator Program Directory: brands with open ambassador, creator and affiliate applications",
    "description": "Brands with open ambassador, creator, affiliate and gifting applications, re-checked every week.",
    "source": "https://github.com/theguysaccount/america-house-brand-gifting-pipeline",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/america-house-brand-gifting-pipeline/sitemap.xml",
+     "url": "https://programs.collabcupid.com/sitemap.xml",
      "type": "urlset",
      "count": 81,
      "children": []
@@ -117,14 +117,14 @@
   },
   {
    "repo": "charity-impact-media",
-   "url": "https://theguysaccount.github.io/charity-impact-media/",
-   "kind": "path",
+   "url": "https://charities.systemicaltruism.org/",
+   "kind": "domain",
    "title": "Charity Impact Media: where charities' money goes, from their IRS Form 990",
    "description": "Free, sourced spending breakdowns of 25,526 US charities from their own Form 990 filings: program share, executive pay, revenue mix and trends. No ratings.",
    "source": "https://github.com/theguysaccount/charity-impact-media",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/charity-impact-media/sitemap.xml",
+     "url": "https://charities.systemicaltruism.org/sitemap.xml",
      "type": "urlset",
      "count": 25656,
      "children": []
@@ -171,24 +171,24 @@
   },
   {
    "repo": "espn-of-venture",
-   "url": "https://theguysaccount.github.io/espn-of-venture/",
-   "kind": "path",
+   "url": "https://scores.silicontank.com/",
+   "kind": "domain",
    "title": "This week's biggest startup raises from SEC Form D filings | Raise Scoreboard",
-   "description": "Week 46, 2026 (Nov 9–15): $3.77B raised across 221 new Form D filings. Top raise: fal - Features & Labels, Inc. ($1.03B). League tables by sector, standings by state, updated daily.",
+   "description": "Week 47, 2026 (Nov 16–22): $4.42B raised across 278 new Form D filings. Top raise: Lazard, Inc. ($649M). League tables by sector, standings by state, updated daily.",
    "source": "https://github.com/theguysaccount/espn-of-venture",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/espn-of-venture/sitemap.xml",
+     "url": "https://scores.silicontank.com/sitemap.xml",
      "type": "sitemapindex",
      "count": 2,
      "children": [
       {
-       "loc": "https://theguysaccount.github.io/espn-of-venture/sitemap-pages.xml",
-       "lastmod": "2026-11-13"
+       "loc": "https://scores.silicontank.com/sitemap-pages.xml",
+       "lastmod": "2026-11-20"
       },
       {
-       "loc": "https://theguysaccount.github.io/espn-of-venture/sitemap-companies-1.xml",
-       "lastmod": "2026-11-13"
+       "loc": "https://scores.silicontank.com/sitemap-companies-1.xml",
+       "lastmod": "2026-11-20"
       }
      ]
     }
@@ -263,14 +263,14 @@
   },
   {
    "repo": "idea-locator-prophet-fund",
-   "url": "https://theguysaccount.github.io/idea-locator-prophet-fund/",
-   "kind": "path",
+   "url": "https://prophetventures.org/",
+   "kind": "domain",
    "title": "Ripeness board: which dead startup categories are viable again | Idea Locator",
    "description": "Dated, hash-chained calls on whether failed startup categories are ripe again: the constraint that killed each one, the metric that moved since, and a sourced graveyard of funded companies.",
    "source": "https://github.com/theguysaccount/idea-locator-prophet-fund",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/idea-locator-prophet-fund/sitemap.xml",
+     "url": "https://prophetventures.org/sitemap.xml",
      "type": "urlset",
      "count": 66,
      "children": []
@@ -320,6 +320,24 @@
    "failing_since": null
   },
   {
+   "repo": "life-incremental-game",
+   "url": "https://theguysaccount.github.io/life-incremental-game/",
+   "kind": "path",
+   "title": "Life Incremental: turn your goals into a climb (free goal game, no account)",
+   "description": "A goal tracker that plays like an incremental game. Set three real goals; each one you finish moves you up a tier of the mountain. Summit, then prestige. Free, no account.",
+   "source": "https://github.com/theguysaccount/life-incremental-game",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/life-incremental-game/sitemap.xml",
+     "type": "urlset",
+     "count": 4,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
    "repo": "lifeclock",
    "url": "https://theguysaccount.github.io/lifeclock/",
    "kind": "path",
@@ -357,14 +375,14 @@
   },
   {
    "repo": "open-robotics-nexus",
-   "url": "https://theguysaccount.github.io/open-robotics-nexus/",
-   "kind": "path",
+   "url": "https://nexus.roboticshouse.org/",
+   "kind": "domain",
    "title": "Open Robotics Nexus",
    "description": "A dashboard and research hub for open source robotics projects, resources, benchmarks, and discovery agents.",
    "source": "https://github.com/theguysaccount/open-robotics-nexus",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/open-robotics-nexus/sitemap.xml",
+     "url": "https://nexus.roboticshouse.org/sitemap.xml",
      "type": "urlset",
      "count": 46,
      "children": []
@@ -375,14 +393,14 @@
   },
   {
    "repo": "pitch-judge-investor-game",
-   "url": "https://theguysaccount.github.io/pitch-judge-investor-game/",
-   "kind": "path",
+   "url": "https://play.silicontank.com/",
+   "kind": "domain",
    "title": "Would You Fund It? A daily startup investing game",
    "description": "Real startup and TV pitches with the names hidden. Invest or pass, then see whether it became a breakout, a success or a bust. Five new pitches every day.",
    "source": "https://github.com/theguysaccount/pitch-judge-investor-game",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/pitch-judge-investor-game/sitemap.xml",
+     "url": "https://play.silicontank.com/sitemap.xml",
      "type": "urlset",
      "count": 80,
      "children": []
@@ -426,14 +444,14 @@
   },
   {
    "repo": "psych-sec-social-engineering-defense",
-   "url": "https://theguysaccount.github.io/psych-sec-social-engineering-defense/",
-   "kind": "path",
+   "url": "https://scams.systemicaltruism.org/",
+   "kind": "domain",
    "title": "Spot the Scam: free 2-minute scam test (texts, emails, calls)",
    "description": "Can you tell a scam text, email or call from a real one? Take the free 2-minute test with realistic, AI-era examples, updated weekly from FTC alerts.",
    "source": "https://github.com/theguysaccount/psych-sec-social-engineering-defense",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/psych-sec-social-engineering-defense/sitemap.xml",
+     "url": "https://scams.systemicaltruism.org/sitemap.xml",
      "type": "urlset",
      "count": 30,
      "children": []
@@ -498,64 +516,64 @@
   },
   {
    "repo": "whofunds-open-grant-graph",
-   "url": "https://theguysaccount.github.io/whofunds-open-grant-graph/",
-   "kind": "path",
+   "url": "https://whofunds.systemicaltruism.org/",
+   "kind": "domain",
    "title": "WHOFUNDS: who funds whom, from IRS records",
    "description": "See which private foundations fund any US nonprofit. 1,667,440 grant lines from 123,521 Form 990-PF returns (tax year 2023), matched to recipient EINs, every line linked to its IRS filing. Free, public domain.",
    "source": "https://github.com/theguysaccount/whofunds-open-grant-graph",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap.xml",
+     "url": "https://whofunds.systemicaltruism.org/sitemap.xml",
      "type": "sitemapindex",
      "count": 12,
      "children": [
       {
-       "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-1.xml.gz",
-       "lastmod": "2026-11-10"
+       "loc": "https://whofunds.systemicaltruism.org/sitemap-1.xml.gz",
+       "lastmod": "2026-11-22"
       },
       {
-       "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-2.xml.gz",
-       "lastmod": "2026-11-10"
+       "loc": "https://whofunds.systemicaltruism.org/sitemap-2.xml.gz",
+       "lastmod": "2026-11-22"
       },
       {
-       "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-3.xml.gz",
-       "lastmod": "2026-11-10"
+       "loc": "https://whofunds.systemicaltruism.org/sitemap-3.xml.gz",
+       "lastmod": "2026-11-22"
       },
       {
-       "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-4.xml.gz",
-       "lastmod": "2026-11-10"
+       "loc": "https://whofunds.systemicaltruism.org/sitemap-4.xml.gz",
+       "lastmod": "2026-11-22"
       },
       {
-       "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-5.xml.gz",
-       "lastmod": "2026-11-10"
+       "loc": "https://whofunds.systemicaltruism.org/sitemap-5.xml.gz",
+       "lastmod": "2026-11-22"
       },
       {
-       "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-6.xml.gz",
-       "lastmod": "2026-11-10"
+       "loc": "https://whofunds.systemicaltruism.org/sitemap-6.xml.gz",
+       "lastmod": "2026-11-22"
       },
       {
-       "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-7.xml.gz",
-       "lastmod": "2026-11-10"
+       "loc": "https://whofunds.systemicaltruism.org/sitemap-7.xml.gz",
+       "lastmod": "2026-11-22"
       },
       {
-       "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-8.xml.gz",
-       "lastmod": "2026-11-10"
+       "loc": "https://whofunds.systemicaltruism.org/sitemap-8.xml.gz",
+       "lastmod": "2026-11-22"
       },
       {
-       "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-9.xml.gz",
-       "lastmod": "2026-11-10"
+       "loc": "https://whofunds.systemicaltruism.org/sitemap-9.xml.gz",
+       "lastmod": "2026-11-22"
       },
       {
-       "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-10.xml.gz",
-       "lastmod": "2026-11-10"
+       "loc": "https://whofunds.systemicaltruism.org/sitemap-10.xml.gz",
+       "lastmod": "2026-11-22"
       },
       {
-       "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-11.xml.gz",
-       "lastmod": "2026-11-10"
+       "loc": "https://whofunds.systemicaltruism.org/sitemap-11.xml.gz",
+       "lastmod": "2026-11-22"
       },
       {
-       "loc": "https://theguysaccount.github.io/whofunds-open-grant-graph/sitemap-12.xml.gz",
-       "lastmod": "2026-11-10"
+       "loc": "https://whofunds.systemicaltruism.org/sitemap-12.xml.gz",
+       "lastmod": "2026-11-22"
       }
      ]
     }
