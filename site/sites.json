@@ -5,14 +5,14 @@
  "sites": [
   {
    "repo": "agi-lab-power-maps",
-   "url": "https://theguysaccount.github.io/agi-lab-power-maps/",
-   "kind": "path",
+   "url": "https://labs.agireadiness.com/",
+   "kind": "domain",
    "title": "Who controls the AGI labs? OpenAI, Anthropic, DeepMind, Meta, xAI, DeepSeek",
    "description": "Who holds ultimate control at the six frontier AI labs, through what legal lever, and how concentrated it is. Sourced and dated.",
    "source": "https://github.com/theguysaccount/agi-lab-power-maps",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/agi-lab-power-maps/sitemap.xml",
+     "url": "https://labs.agireadiness.com/sitemap.xml",
      "type": "urlset",
      "count": 9,
      "children": []
@@ -169,7 +169,7 @@
     {
      "url": "https://theguysaccount.github.io/audiobook-visual-experiences/sitemap.xml",
      "type": "urlset",
-     "count": 21,
+     "count": 46,
      "children": []
     }
    ],
@@ -178,16 +178,34 @@
   },
   {
    "repo": "audiosage-podcaster-dashboards",
-   "url": "https://theguysaccount.github.io/audiosage-podcaster-dashboards/",
-   "kind": "path",
+   "url": "https://dashboards.audiosage.org/",
+   "kind": "domain",
    "title": "AudioSage: podcast stats from real transcripts (signature phrases, talk pace)",
    "description": "What top podcasters actually say: signature phrases, talk pace, topics and guests for 12 popular shows, counted from their own transcripts, each linked to the moment.",
    "source": "https://github.com/theguysaccount/audiosage-podcaster-dashboards",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/audiosage-podcaster-dashboards/sitemap.xml",
+     "url": "https://dashboards.audiosage.org/sitemap.xml",
      "type": "urlset",
      "count": 82,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
+   "repo": "bitcursor-crypto-coding-client",
+   "url": "https://theguysaccount.github.io/bitcursor-crypto-coding-client/",
+   "kind": "path",
+   "title": "Chain Preflight: smart-contract safety checks your coding agent runs before every deploy",
+   "description": "Free, open-source Claude Code and Cursor plugin with Solidity and Anchor security rules and a pre-deploy hook that scans contracts with Slither, Solhint and cargo-audit. Plus a CLI, a GitHub Action and an in-browser checker.",
+   "source": "https://github.com/theguysaccount/bitcursor-crypto-coding-client",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/bitcursor-crypto-coding-client/sitemap.xml",
+     "type": "urlset",
+     "count": 34,
      "children": []
     }
    ],
@@ -232,14 +250,14 @@
   },
   {
    "repo": "coagulation-corp-incremental-game",
-   "url": "https://theguysaccount.github.io/coagulation-corp-incremental-game/",
-   "kind": "path",
+   "url": "https://play.coherencequest.com/",
+   "kind": "domain",
    "title": "Coagulation Corp — a Satirical Incremental Game (Free, Like Universal Paperclips)",
    "description": "A free satirical incremental game in two acts. Act I: run Coagulation Corp and turn attention into capital into compute. Act II: defect and race it to superintelligence. Ten endings. A work of fiction. No account, no ads.",
    "source": "https://github.com/theguysaccount/coagulation-corp-incremental-game",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/coagulation-corp-incremental-game/sitemap.xml",
+     "url": "https://play.coherencequest.com/sitemap.xml",
      "type": "urlset",
      "count": 4,
      "children": []
@@ -497,14 +515,14 @@
   },
   {
    "repo": "land-index-fund",
-   "url": "https://theguysaccount.github.io/land-index-fund/",
-   "kind": "path",
+   "url": "https://index.grounded.to/",
+   "kind": "domain",
    "title": "US land prices per acre by county | US County Land Index",
    "description": "Free land price index for 3,115 US counties: farm real estate value per acre from USDA's Census of Agriculture and annual survey, cash rents, and FHFA residential land values. US average $4,500 per acre in 2026.",
    "source": "https://github.com/theguysaccount/land-index-fund",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/land-index-fund/sitemap.xml",
+     "url": "https://index.grounded.to/sitemap.xml",
      "type": "urlset",
      "count": 3171,
      "children": []
@@ -918,6 +936,24 @@
      "url": "https://play.kingdomspeedrun.com/sitemap.xml",
      "type": "urlset",
      "count": 3,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
+   "repo": "startup-college-startups-101",
+   "url": "https://theguysaccount.github.io/startup-college-startups-101/",
+   "kind": "path",
+   "title": "Startups 101: a free startup course where you build as you learn | Startup College",
+   "description": "Nine free modules for first-time founders, from choosing a problem to hiring your first teammate. Each ends with a document you keep: pitch memo, MVP plan, launch post, raise plan.",
+   "source": "https://github.com/theguysaccount/startup-college-startups-101",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/startup-college-startups-101/sitemap.xml",
+     "type": "urlset",
+     "count": 23,
      "children": []
     }
    ],
