@@ -269,6 +269,24 @@
    "failing_since": null
   },
   {
+   "repo": "gpt-book-movie-recommender",
+   "url": "https://theguysaccount.github.io/gpt-book-movie-recommender/",
+   "kind": "path",
+   "title": "Shelf & Screen: book and movie picks from your Goodreads or Letterboxd ratings",
+   "description": "Import your Goodreads, StoryGraph, Letterboxd or IMDb export and get book and film picks ranked for your taste, each with the reason. Free, no account, nothing uploaded.",
+   "source": "https://github.com/theguysaccount/gpt-book-movie-recommender",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/gpt-book-movie-recommender/sitemap.xml",
+     "type": "urlset",
+     "count": 1658,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
    "repo": "humanityschecklist",
    "url": "https://humanityschecklist.org/",
    "kind": "domain",
@@ -388,6 +406,24 @@
    "failing_since": null
   },
   {
+   "repo": "landosaur-land-marketplace",
+   "url": "https://theguysaccount.github.io/landosaur-land-marketplace/",
+   "kind": "path",
+   "title": "Landosaur: government and auction land for sale on one map",
+   "description": "10,286 government and auction land offerings on one map: city lots, tax-sale parcels and state land, each linked to the agency's own listing.",
+   "source": "https://github.com/theguysaccount/landosaur-land-marketplace",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/landosaur-land-marketplace/sitemap.xml",
+     "type": "urlset",
+     "count": 2,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
    "repo": "life-incremental-game",
    "url": "https://theguysaccount.github.io/life-incremental-game/",
    "kind": "path",
@@ -439,6 +475,42 @@
     }
    ],
    "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "loom-to-code-vibe-coding",
+   "url": "https://theguysaccount.github.io/loom-to-code-vibe-coding/",
+   "kind": "path",
+   "title": "Pointbrief: point at your app, say what to change, your coding agent applies it",
+   "description": "A free, open-source dev toolbar and Claude Code plugin. Record your voice, pointer and drawings over your local app and get an element-mapped change list your coding agent can apply.",
+   "source": "https://github.com/theguysaccount/loom-to-code-vibe-coding",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/loom-to-code-vibe-coding/sitemap.xml",
+     "type": "urlset",
+     "count": 10,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
+   "repo": "meme-search-engine",
+   "url": "https://theguysaccount.github.io/meme-search-engine/",
+   "kind": "path",
+   "title": "Describe a Meme: find any meme's name from a description",
+   "description": "Remember a meme but not what it's called? Describe it in your own words and get its name, what it means and the blank template. 384 templates, free, no signup.",
+   "source": "https://github.com/theguysaccount/meme-search-engine",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/meme-search-engine/sitemap.xml",
+     "type": "urlset",
+     "count": 430,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
    "failing_since": null
   },
   {
@@ -511,6 +583,24 @@
    "failing_since": null
   },
   {
+   "repo": "pres2028-citizen-game",
+   "url": "https://theguysaccount.github.io/pres2028-citizen-game/",
+   "kind": "path",
+   "title": "PRES2028: Citizen — The Road to 270 (Free Electoral College Game)",
+   "description": "PRES2028: Citizen is a free strategy game about the electoral college. Knock doors, DM friends and post stories, build a citizen field operation, and win 270 real electoral votes before Election Day 2028. A work of fiction: no party, no candidate.",
+   "source": "https://github.com/theguysaccount/pres2028-citizen-game",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/pres2028-citizen-game/sitemap.xml",
+     "type": "urlset",
+     "count": 3,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
    "repo": "proof-of-human-writing",
    "url": "https://theguysaccount.github.io/proof-of-human-writing/",
    "kind": "path",
@@ -544,6 +634,24 @@
     }
    ],
    "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "pumpfun-for-companies-dynamic-equity",
+   "url": "https://theguysaccount.github.io/pumpfun-for-companies-dynamic-equity/",
+   "kind": "path",
+   "title": "Founder Ledger: free co-founder equity split calculator with a contribution ledger",
+   "description": "Log what each co-founder puts in (time, cash, expenses, equipment), see a live dynamic equity split, freeze checkpoints to agree on, and export to a cap table. Free, private, no account.",
+   "source": "https://github.com/theguysaccount/pumpfun-for-companies-dynamic-equity",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/pumpfun-for-companies-dynamic-equity/sitemap.xml",
+     "type": "urlset",
+     "count": 4,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
    "failing_since": null
   },
   {
@@ -594,6 +702,24 @@
      "url": "https://theguysaccount.github.io/speed-run-heaven-civic-game/sitemap.xml",
      "type": "urlset",
      "count": 3,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
+   "repo": "supermind-killers-site",
+   "url": "https://theguysaccount.github.io/supermind-killers-site/",
+   "kind": "path",
+   "title": "Social media default settings for teens, compared | Platform Defaults",
+   "description": "How Instagram, TikTok, YouTube, Snapchat, Pinterest and X are set up for teens by default: private accounts, messages, time and bedtime reminders, sensitive content, parent tools and feed choices, quoted from each platform's own documentation.",
+   "source": "https://github.com/theguysaccount/supermind-killers-site",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/supermind-killers-site/sitemap.xml",
+     "type": "urlset",
+     "count": 10,
      "children": []
     }
    ],
@@ -652,6 +778,24 @@
     }
    ],
    "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "verifiedreality-video-provenance",
+   "url": "https://theguysaccount.github.io/verifiedreality-video-provenance/",
+   "kind": "path",
+   "title": "Existed By: prove a video existed by a date, without uploading it",
+   "description": "Free: fingerprint a video on your device and timestamp it on Bitcoin through OpenTimestamps. Anyone can later check the file existed, unchanged, by that time. The video is never uploaded.",
+   "source": "https://github.com/theguysaccount/verifiedreality-video-provenance",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/verifiedreality-video-provenance/sitemap.xml",
+     "type": "urlset",
+     "count": 8,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
    "failing_since": null
   },
   {

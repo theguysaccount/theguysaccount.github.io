@@ -14,15 +14,23 @@ Sitemap: https://theguysaccount.github.io/ai-data-collection-audit-agency/sitema
 Sitemap: https://theguysaccount.github.io/ai-memory-videos/sitemap.xml
 Sitemap: https://theguysaccount.github.io/aligned-action-candidate-matcher/sitemap.xml
 Sitemap: https://theguysaccount.github.io/family-creed-generator/sitemap.xml
+Sitemap: https://theguysaccount.github.io/gpt-book-movie-recommender/sitemap.xml
 Sitemap: https://theguysaccount.github.io/independents-win-tracker/sitemap.xml
 Sitemap: https://theguysaccount.github.io/kids-gamified-finance-app/sitemap.xml
 Sitemap: https://theguysaccount.github.io/land-index-fund/sitemap.xml
+Sitemap: https://theguysaccount.github.io/landosaur-land-marketplace/sitemap.xml
 Sitemap: https://theguysaccount.github.io/life-incremental-game/sitemap.xml
+Sitemap: https://theguysaccount.github.io/loom-to-code-vibe-coding/sitemap.xml
+Sitemap: https://theguysaccount.github.io/meme-search-engine/sitemap.xml
+Sitemap: https://theguysaccount.github.io/pres2028-citizen-game/sitemap.xml
 Sitemap: https://theguysaccount.github.io/proof-of-human-writing/sitemap.xml
+Sitemap: https://theguysaccount.github.io/pumpfun-for-companies-dynamic-equity/sitemap.xml
 Sitemap: https://theguysaccount.github.io/response-ability-attention-gap-board/sitemap.xml
 Sitemap: https://theguysaccount.github.io/speed-run-heaven-civic-game/sitemap.xml
+Sitemap: https://theguysaccount.github.io/supermind-killers-site/sitemap.xml
 Sitemap: https://theguysaccount.github.io/symbaiosis-ai-video-editor/sitemap.xml
 Sitemap: https://theguysaccount.github.io/turing-gun-challenge/sitemap.xml
+Sitemap: https://theguysaccount.github.io/verifiedreality-video-provenance/sitemap.xml
 
 # Project sites on their own domains. Each domain's own robots.txt is the one
 # crawlers obey there; these lines only help discovery.
