@@ -514,6 +514,24 @@
    "failing_since": null
   },
   {
+   "repo": "mirror-humanity-world-rehearsals",
+   "url": "https://theguysaccount.github.io/mirror-humanity-world-rehearsals/",
+   "kind": "path",
+   "title": "Shift Rehearsal: how many staff do I need? Free queue and wait-time simulator",
+   "description": "Compare your current staffing with a plan, hour by hour: average waits, people who give up, idle staff hours and cost, simulated over hundreds of days. Every assumption visible. Free, no sign-up.",
+   "source": "https://github.com/theguysaccount/mirror-humanity-world-rehearsals",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/mirror-humanity-world-rehearsals/sitemap.xml",
+     "type": "urlset",
+     "count": 4,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
    "repo": "open-robotics-nexus",
    "url": "https://nexus.roboticshouse.org/",
    "kind": "domain",
@@ -774,6 +792,24 @@
      "url": "https://theguysaccount.github.io/symbaiosis-ai-video-editor/sitemap.xml",
      "type": "urlset",
      "count": 12,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
+   "repo": "telegram-community-size-tracker",
+   "url": "https://theguysaccount.github.io/telegram-community-size-tracker/",
+   "kind": "path",
+   "title": "Telegram channel sizes and growth, tracked | Channel Size Tracker",
+   "description": "Public subscriber and member counts of Telegram channels and groups for crypto projects, exchanges and Telegram itself, tracked twice a day with history from the Internet Archive and flags for unusual jumps.",
+   "source": "https://github.com/theguysaccount/telegram-community-size-tracker",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/telegram-community-size-tracker/sitemap.xml",
+     "type": "urlset",
+     "count": 32,
      "children": []
     }
    ],
