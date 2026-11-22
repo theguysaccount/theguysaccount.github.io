@@ -587,14 +587,14 @@
   },
   {
    "repo": "lightportal-ar-education",
-   "url": "https://theguysaccount.github.io/lightportal-ar-education/",
-   "kind": "path",
+   "url": "https://lab.lightportal.org/",
+   "kind": "domain",
    "title": "Lightportal Reality Lab — Free Hand-Tracked Physics and Geometry Simulations for Class",
    "description": "Free browser simulations for science and maths classes: an orbit simulator, a wave interference simulator, cube cross-sections and a projectile-motion warm-up. Lesson cards, shareable presets, camera optional and on-device.",
    "source": "https://github.com/theguysaccount/lightportal-ar-education",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/lightportal-ar-education/sitemap.xml",
+     "url": "https://lab.lightportal.org/sitemap.xml",
      "type": "urlset",
      "count": 6,
      "children": []
@@ -782,14 +782,14 @@
   },
   {
    "repo": "pres2028-citizen-game",
-   "url": "https://theguysaccount.github.io/pres2028-citizen-game/",
-   "kind": "path",
+   "url": "https://ifwewerepresident.com/",
+   "kind": "domain",
    "title": "PRES2028: Citizen — The Road to 270 (Free Electoral College Game)",
    "description": "PRES2028: Citizen is a free strategy game about the electoral college. Knock doors, DM friends and post stories, build a citizen field operation, and win 270 real electoral votes before Election Day 2028. A work of fiction: no party, no candidate.",
    "source": "https://github.com/theguysaccount/pres2028-citizen-game",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/pres2028-citizen-game/sitemap.xml",
+     "url": "https://ifwewerepresident.com/sitemap.xml",
      "type": "urlset",
      "count": 3,
      "children": []
@@ -944,14 +944,14 @@
   },
   {
    "repo": "startup-college-startups-101",
-   "url": "https://theguysaccount.github.io/startup-college-startups-101/",
-   "kind": "path",
+   "url": "https://learn.startupcollege.io/",
+   "kind": "domain",
    "title": "Startups 101: a free startup course where you build as you learn | Startup College",
    "description": "Nine free modules for first-time founders, from choosing a problem to hiring your first teammate. Each ends with a document you keep: pitch memo, MVP plan, launch post, raise plan.",
    "source": "https://github.com/theguysaccount/startup-college-startups-101",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/startup-college-startups-101/sitemap.xml",
+     "url": "https://learn.startupcollege.io/sitemap.xml",
      "type": "urlset",
      "count": 23,
      "children": []
