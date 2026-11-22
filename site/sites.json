@@ -4,6 +4,24 @@
  "grace_days": 3,
  "sites": [
   {
+   "repo": "agi-lab-power-maps",
+   "url": "https://theguysaccount.github.io/agi-lab-power-maps/",
+   "kind": "path",
+   "title": "Who controls the AGI labs? OpenAI, Anthropic, DeepMind, Meta, xAI, DeepSeek",
+   "description": "Who holds ultimate control at the six frontier AI labs, through what legal lever, and how concentrated it is. Sourced and dated.",
+   "source": "https://github.com/theguysaccount/agi-lab-power-maps",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/agi-lab-power-maps/sitemap.xml",
+     "type": "urlset",
+     "count": 9,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
    "repo": "ai-board-game-maker",
    "url": "https://theguysaccount.github.io/ai-board-game-maker/",
    "kind": "path",
@@ -76,6 +94,24 @@
    "failing_since": null
   },
   {
+   "repo": "alternative-paths-opportunities",
+   "url": "https://theguysaccount.github.io/alternative-paths-opportunities/",
+   "kind": "path",
+   "title": "Paid apprenticeships and paid training, from official sources | Alternative Paths",
+   "description": "Paid apprenticeships and paid training from official sources: 476 registered apprenticeship occupations in Washington State with starting wages, plus national programs like Job Corps and AmeriCorps. Nothing that charges job seekers.",
+   "source": "https://github.com/theguysaccount/alternative-paths-opportunities",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/alternative-paths-opportunities/sitemap.xml",
+     "type": "urlset",
+     "count": 28,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
    "repo": "america-co-civic-movement-hub",
    "url": "https://theguysaccount.github.io/america-co-civic-movement-hub/",
    "kind": "path",
@@ -123,6 +159,42 @@
    "failing_since": null
   },
   {
+   "repo": "audiobook-visual-experiences",
+   "url": "https://theguysaccount.github.io/audiobook-visual-experiences/",
+   "kind": "path",
+   "title": "Read-Along Classics: free audiobooks with the text highlighted as it's read",
+   "description": "Listen to Alice",
+   "source": "https://github.com/theguysaccount/audiobook-visual-experiences",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/audiobook-visual-experiences/sitemap.xml",
+     "type": "urlset",
+     "count": 21,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
+   "repo": "audiosage-podcaster-dashboards",
+   "url": "https://theguysaccount.github.io/audiosage-podcaster-dashboards/",
+   "kind": "path",
+   "title": "AudioSage: podcast stats from real transcripts (signature phrases, talk pace)",
+   "description": "What top podcasters actually say: signature phrases, talk pace, topics and guests for 12 popular shows, counted from their own transcripts, each linked to the moment.",
+   "source": "https://github.com/theguysaccount/audiosage-podcaster-dashboards",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/audiosage-podcaster-dashboards/sitemap.xml",
+     "type": "urlset",
+     "count": 82,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
    "repo": "charitology",
    "url": "https://publish.charitology.com/",
    "kind": "domain",
@@ -159,6 +231,24 @@
    "failing_since": null
   },
   {
+   "repo": "coagulation-corp-incremental-game",
+   "url": "https://theguysaccount.github.io/coagulation-corp-incremental-game/",
+   "kind": "path",
+   "title": "Coagulation Corp — a Satirical Incremental Game (Free, Like Universal Paperclips)",
+   "description": "A free satirical incremental game in two acts. Act I: run Coagulation Corp and turn attention into capital into compute. Act II: defect and race it to superintelligence. Ten endings. A work of fiction. No account, no ads.",
+   "source": "https://github.com/theguysaccount/coagulation-corp-incremental-game",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/coagulation-corp-incremental-game/sitemap.xml",
+     "type": "urlset",
+     "count": 4,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
    "repo": "cupidai-soulmatecheck",
    "url": "https://app.soulmatecheck.com/",
    "kind": "domain",
@@ -174,6 +264,24 @@
     }
    ],
    "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "democracys-org-democracy-scores",
+   "url": "https://theguysaccount.github.io/democracys-org-democracy-scores/",
+   "kind": "path",
+   "title": "Democracy scores by country, 1900 to 2025: open data, charts and embeds",
+   "description": "Free democracy scores for 179 countries and territories from 1900 to 2025, built from V-Dem: download the data, embed a chart, check the rebuild.",
+   "source": "https://github.com/theguysaccount/democracys-org-democracy-scores",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/democracys-org-democracy-scores/sitemap.xml",
+     "type": "urlset",
+     "count": 3,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
    "failing_since": null
   },
   {
@@ -279,7 +387,7 @@
     {
      "url": "https://theguysaccount.github.io/gpt-book-movie-recommender/sitemap.xml",
      "type": "urlset",
-     "count": 1658,
+     "count": 1677,
      "children": []
     }
    ],
@@ -496,6 +604,24 @@
    "failing_since": null
   },
   {
+   "repo": "mealprep-business-os",
+   "url": "https://theguysaccount.github.io/mealprep-business-os/",
+   "kind": "path",
+   "title": "Meal prep business permits by state, and a free order page",
+   "description": "Which permits you need to sell meal prep in your state, with the agency and date behind each rule, plus a free order page with weekly cutoffs and delivery ZIPs. No signup.",
+   "source": "https://github.com/theguysaccount/mealprep-business-os",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/mealprep-business-os/sitemap.xml",
+     "type": "urlset",
+     "count": 46,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
    "repo": "meme-search-engine",
    "url": "https://theguysaccount.github.io/meme-search-engine/",
    "kind": "path",
@@ -565,6 +691,24 @@
     }
    ],
    "first_seen": "2026-10-25",
+   "failing_since": null
+  },
+  {
+   "repo": "pmf-harness-self-evolving-app",
+   "url": "https://theguysaccount.github.io/pmf-harness-self-evolving-app/",
+   "kind": "path",
+   "title": "PMF Harness: let users change your app, safely, and ask if it's better",
+   "description": "An open-source drop-in feedback button that turns a user",
+   "source": "https://github.com/theguysaccount/pmf-harness-self-evolving-app",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/pmf-harness-self-evolving-app/sitemap.xml",
+     "type": "urlset",
+     "count": 10,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
    "failing_since": null
   },
   {
@@ -882,6 +1026,24 @@
      "url": "https://theguysaccount.github.io/verifiedreality-video-provenance/sitemap.xml",
      "type": "urlset",
      "count": 8,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
+   "repo": "wheel-of-dharma-eightfold-helper",
+   "url": "https://theguysaccount.github.io/wheel-of-dharma-eightfold-helper/",
+   "kind": "path",
+   "title": "Eightfold path self-check: which factors need attention? | Eightfold Helper",
+   "description": "A free, private self-check on the eight factors of the Noble Eightfold Path, as the early discourses define them, with practices for the factors that need attention, each grounded in a quoted passage.",
+   "source": "https://github.com/theguysaccount/wheel-of-dharma-eightfold-helper",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/wheel-of-dharma-eightfold-helper/sitemap.xml",
+     "type": "urlset",
+     "count": 12,
      "children": []
     }
    ],
