@@ -268,14 +268,14 @@
   },
   {
    "repo": "democracys-org-democracy-scores",
-   "url": "https://theguysaccount.github.io/democracys-org-democracy-scores/",
-   "kind": "path",
+   "url": "https://data.democracys.org/",
+   "kind": "domain",
    "title": "Democracy scores by country, 1900 to 2025: open data, charts and embeds",
    "description": "Free democracy scores for 179 countries and territories from 1900 to 2025, built from V-Dem: download the data, embed a chart, check the rebuild.",
    "source": "https://github.com/theguysaccount/democracys-org-democracy-scores",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/democracys-org-democracy-scores/sitemap.xml",
+     "url": "https://data.democracys.org/sitemap.xml",
      "type": "urlset",
      "count": 3,
      "children": []
@@ -568,6 +568,24 @@
    "failing_since": null
   },
   {
+   "repo": "lightportal-ar-education",
+   "url": "https://theguysaccount.github.io/lightportal-ar-education/",
+   "kind": "path",
+   "title": "Lightportal Reality Lab — Free Hand-Tracked Physics and Geometry Simulations for Class",
+   "description": "Free browser simulations for science and maths classes: an orbit simulator, a wave interference simulator, cube cross-sections and a projectile-motion warm-up. Lesson cards, shareable presets, camera optional and on-device.",
+   "source": "https://github.com/theguysaccount/lightportal-ar-education",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/lightportal-ar-education/sitemap.xml",
+     "type": "urlset",
+     "count": 6,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
    "repo": "logo-to-3d-art-generator",
    "url": "https://3d.gifstudios.com/",
    "kind": "domain",
@@ -587,14 +605,14 @@
   },
   {
    "repo": "loom-to-code-vibe-coding",
-   "url": "https://theguysaccount.github.io/loom-to-code-vibe-coding/",
-   "kind": "path",
+   "url": "https://code.screenrecordit.com/",
+   "kind": "domain",
    "title": "Pointbrief: point at your app, say what to change, your coding agent applies it",
    "description": "A free, open-source dev toolbar and Claude Code plugin. Record your voice, pointer and drawings over your local app and get an element-mapped change list your coding agent can apply.",
    "source": "https://github.com/theguysaccount/loom-to-code-vibe-coding",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/loom-to-code-vibe-coding/sitemap.xml",
+     "url": "https://code.screenrecordit.com/sitemap.xml",
      "type": "urlset",
      "count": 10,
      "children": []
@@ -614,7 +632,7 @@
     {
      "url": "https://theguysaccount.github.io/mealprep-business-os/sitemap.xml",
      "type": "urlset",
-     "count": 46,
+     "count": 55,
      "children": []
     }
    ],
@@ -626,13 +644,13 @@
    "url": "https://theguysaccount.github.io/meme-search-engine/",
    "kind": "path",
    "title": "Describe a Meme: find any meme's name from a description",
-   "description": "Remember a meme but not what it's called? Describe it in your own words and get its name, what it means and the blank template. 384 templates, free, no signup.",
+   "description": "Remember a meme but not what it's called? Describe it in your own words and get its name, what it means and the blank template. 386 templates, free, no signup.",
    "source": "https://github.com/theguysaccount/meme-search-engine",
    "sitemaps": [
     {
      "url": "https://theguysaccount.github.io/meme-search-engine/sitemap.xml",
      "type": "urlset",
-     "count": 430,
+     "count": 432,
      "children": []
     }
    ],
@@ -818,14 +836,14 @@
   },
   {
    "repo": "rabbithole-3d-learning-feed",
-   "url": "https://theguysaccount.github.io/rabbithole-3d-learning-feed/",
-   "kind": "path",
+   "url": "https://videos.entermyrabbithole.com/",
+   "kind": "domain",
    "title": "Rabbit Hole: turn YouTube videos into a path people can explore",
    "description": "Arrange YouTube videos into a main track with side paths that go deeper. Viewers swipe down for the next clip and sideways to dig in. Free branching video builder, shared as one link.",
    "source": "https://github.com/theguysaccount/rabbithole-3d-learning-feed",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/rabbithole-3d-learning-feed/sitemap.xml",
+     "url": "https://videos.entermyrabbithole.com/sitemap.xml",
      "type": "urlset",
      "count": 13,
      "children": []
@@ -836,14 +854,14 @@
   },
   {
    "repo": "response-ability-attention-gap-board",
-   "url": "https://theguysaccount.github.io/response-ability-attention-gap-board/",
-   "kind": "path",
+   "url": "https://board.howcouldihelp.com/",
+   "kind": "domain",
    "title": "The attention gap: preventable causes of death ranked by how little attention they get",
    "description": "35 preventable causes of death ranked by Wikipedia views per death, from household air pollution (0.0041 views per death) to rabies. Every toll sourced and dated. Then get one assignment matched to what you can do.",
    "source": "https://github.com/theguysaccount/response-ability-attention-gap-board",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/response-ability-attention-gap-board/sitemap.xml",
+     "url": "https://board.howcouldihelp.com/sitemap.xml",
      "type": "urlset",
      "count": 40,
      "children": []
@@ -854,14 +872,14 @@
   },
   {
    "repo": "set-u-language-genealogy",
-   "url": "https://theguysaccount.github.io/set-u-language-genealogy/",
-   "kind": "path",
+   "url": "https://data.set-u.org/",
+   "kind": "domain",
    "title": "*SET-U open data: cited word histories and the etymology graph, free to download",
    "description": "214 reviewed etymology dossiers with 1,025 cited relationships back to the limits of knowledge, plus every *SET-U dataset as JSON, CSV and SQLite.",
    "source": "https://github.com/theguysaccount/set-u-language-genealogy",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/set-u-language-genealogy/sitemap.xml",
+     "url": "https://data.set-u.org/sitemap.xml",
      "type": "urlset",
      "count": 3,
      "children": []
@@ -890,14 +908,14 @@
   },
   {
    "repo": "speed-run-heaven-civic-game",
-   "url": "https://theguysaccount.github.io/speed-run-heaven-civic-game/",
-   "kind": "path",
+   "url": "https://play.kingdomspeedrun.com/",
+   "kind": "domain",
    "title": "Speed Run Heaven — Free Idle Clicker About Public AI & Robots",
    "description": "A free browser incremental game. Start as one citizen, win a peaceful democratic mandate, turn AI and robotics into public infrastructure, and race the clock to a future with more time for everyone. A work of fiction. No account, no ads.",
    "source": "https://github.com/theguysaccount/speed-run-heaven-civic-game",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/speed-run-heaven-civic-game/sitemap.xml",
+     "url": "https://play.kingdomspeedrun.com/sitemap.xml",
      "type": "urlset",
      "count": 3,
      "children": []
@@ -998,14 +1016,14 @@
   },
   {
    "repo": "turing-gun-challenge",
-   "url": "https://theguysaccount.github.io/turing-gun-challenge/",
-   "kind": "path",
+   "url": "https://truhuman.org/",
+   "kind": "domain",
    "title": "Human or AI? A free quiz: can you spot AI writing? | Turing.gun",
    "description": "Ten rounds of real human answers beside AI ones. Can you tell which is which? Free, no sign-up, scores you can share.",
    "source": "https://github.com/theguysaccount/turing-gun-challenge",
    "sitemaps": [
     {
-     "url": "https://theguysaccount.github.io/turing-gun-challenge/sitemap.xml",
+     "url": "https://truhuman.org/sitemap.xml",
      "type": "urlset",
      "count": 3,
      "children": []
