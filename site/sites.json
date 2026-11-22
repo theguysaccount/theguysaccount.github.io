@@ -345,6 +345,24 @@
    "failing_since": null
   },
   {
+   "repo": "kids-gamified-finance-app",
+   "url": "https://theguysaccount.github.io/kids-gamified-finance-app/",
+   "kind": "path",
+   "title": "Coin Garden: a free play-money game that teaches kids to save, give and invest",
+   "description": "Kids earn pretend coins for jobs, sort them into Spend, Save, Give and Grow jars, save for goals and watch a pretend fund replay real share prices. Free, no sign-up, collects nothing.",
+   "source": "https://github.com/theguysaccount/kids-gamified-finance-app",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/kids-gamified-finance-app/sitemap.xml",
+     "type": "urlset",
+     "count": 5,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
    "repo": "land-index-fund",
    "url": "https://theguysaccount.github.io/land-index-fund/",
    "kind": "path",
@@ -522,6 +540,24 @@
    "failing_since": null
   },
   {
+   "repo": "response-ability-attention-gap-board",
+   "url": "https://theguysaccount.github.io/response-ability-attention-gap-board/",
+   "kind": "path",
+   "title": "The attention gap: preventable causes of death ranked by how little attention they get",
+   "description": "35 preventable causes of death ranked by Wikipedia views per death, from household air pollution (0.0041 views per death) to rabies. Every toll sourced and dated. Then get one assignment matched to what you can do.",
+   "source": "https://github.com/theguysaccount/response-ability-attention-gap-board",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/response-ability-attention-gap-board/sitemap.xml",
+     "type": "urlset",
+     "count": 40,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
    "repo": "situation-monitor",
    "url": "https://thesituationmonitor.org/",
    "kind": "domain",
@@ -551,6 +587,24 @@
      "url": "https://theguysaccount.github.io/speed-run-heaven-civic-game/sitemap.xml",
      "type": "urlset",
      "count": 3,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
+   "repo": "symbaiosis-ai-video-editor",
+   "url": "https://theguysaccount.github.io/symbaiosis-ai-video-editor/",
+   "kind": "path",
+   "title": "Remove pauses and ums, add captions, export vertical · Symbaiosis",
+   "description": "Free AI video editor that runs in your browser: it cuts silences and filler words, writes word-by-word captions with an on-device speech model, and exports vertical MP4. No upload, no watermark, no account.",
+   "source": "https://github.com/theguysaccount/symbaiosis-ai-video-editor",
+   "sitemaps": [
+    {
+     "url": "https://theguysaccount.github.io/symbaiosis-ai-video-editor/sitemap.xml",
+     "type": "urlset",
+     "count": 12,
      "children": []
     }
    ],
