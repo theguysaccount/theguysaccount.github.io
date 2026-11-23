@@ -41,6 +41,7 @@ Sitemap: https://labs.agireadiness.com/sitemap.xml
 Sitemap: https://programs.collabcupid.com/sitemap.xml
 Sitemap: https://data.americav2.org/sitemap.xml
 Sitemap: https://dashboards.audiosage.org/sitemap.xml
+Sitemap: https://bootloaded.org/sitemap.xml
 Sitemap: https://publish.charitology.com/sitemap.xml
 Sitemap: https://charities.systemicaltruism.org/sitemap.xml
 Sitemap: https://play.coherencequest.com/sitemap.xml
@@ -52,6 +53,7 @@ Sitemap: https://fraudbad.com/sitemap.xml
 Sitemap: https://humanityschecklist.org/sitemap.xml
 Sitemap: https://prophetventures.org/sitemap.xml
 Sitemap: https://data.impactline.org/sitemap.xml
+Sitemap: https://labintel.net/sitemap.xml
 Sitemap: https://index.grounded.to/sitemap.xml
 Sitemap: https://app.getlifeclock.com/sitemap.xml
 Sitemap: https://lab.lightportal.org/sitemap.xml

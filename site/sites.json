@@ -1,6 +1,6 @@
 {
  "host": "theguysaccount.github.io",
- "changed_at": "2026-11-22",
+ "changed_at": "2026-11-23",
  "grace_days": 3,
  "sites": [
   {
@@ -213,6 +213,24 @@
    "failing_since": null
   },
   {
+   "repo": "bootloaded",
+   "url": "https://bootloaded.org/",
+   "kind": "domain",
+   "title": "Bootloaded — If Bootloading Works, We Have the Cable Backwards",
+   "description": "Humanity calls itself the biological bootloader for superintelligence. Do the count: if bootloading works, we are almost certainly the bootloaded. A monograph, a fable, and seven live instruments built from one equation.",
+   "source": "https://github.com/theguysaccount/bootloaded",
+   "sitemaps": [
+    {
+     "url": "https://bootloaded.org/sitemap.xml",
+     "type": "urlset",
+     "count": 1,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-23",
+   "failing_since": null
+  },
+  {
    "repo": "charitology",
    "url": "https://publish.charitology.com/",
    "kind": "domain",
@@ -223,7 +241,7 @@
     {
      "url": "https://publish.charitology.com/sitemap.xml",
      "type": "urlset",
-     "count": 480,
+     "count": 484,
      "children": []
     }
    ],
@@ -288,8 +306,8 @@
    "repo": "democracys-org-democracy-scores",
    "url": "https://data.democracys.org/",
    "kind": "domain",
-   "title": "Democracy scores by country, 1900 to 2025: open data, charts and embeds",
-   "description": "Free democracy scores for 179 countries and territories from 1900 to 2025, built from V-Dem: download the data, embed a chart, check the rebuild.",
+   "title": "Democracy Scores Open Data (1900–2025): CSV, Embeds & Reproducibility | Democracys.org",
+   "description": "Download free democracy scores for 179 countries and territories (1900–2025) from V-Dem (CC BY-SA 4.0): CSV/JSON, embeddable charts, and monthly rebuild checks.",
    "source": "https://github.com/theguysaccount/democracys-org-democracy-scores",
    "sitemaps": [
     {
@@ -325,7 +343,7 @@
    "url": "https://scores.silicontank.com/",
    "kind": "domain",
    "title": "This week's biggest startup raises from SEC Form D filings | Raise Scoreboard",
-   "description": "Week 47, 2026 (Nov 16–22): $4.42B raised across 278 new Form D filings. Top raise: Lazard, Inc. ($649M). League tables by sector, standings by state, updated daily.",
+   "description": "Week 47, 2026 (Nov 16–22): $2.70B raised across 264 new Form D filings. Top raise: Linework USA INC. ($326M). League tables by sector, standings by state, updated daily.",
    "source": "https://github.com/theguysaccount/espn-of-venture",
    "sitemaps": [
     {
@@ -358,7 +376,7 @@
     {
      "url": "https://theguysaccount.github.io/family-creed-generator/sitemap.xml",
      "type": "urlset",
-     "count": 57,
+     "count": 58,
      "children": []
     }
    ],
@@ -369,15 +387,32 @@
    "repo": "fraudbad",
    "url": "https://fraudbad.com/",
    "kind": "domain",
-   "title": "FraudBad: up to $521 billion a year lost to fraud. Here's every big…",
-   "description": "Every major fraud case in federal, state and local spending, sourced to auditors, inspectors general and courts — and a map of where the receipts stop.",
+   "title": "Government Spending Fraud Cases by State & Agency | FraudBad",
+   "description": "Track 43 U.S. government spending fraud cases and $2.98T in federal improper payments by state, agency, and program — every figure cited to OIG, DOJ, and GAO.",
    "source": "https://github.com/theguysaccount/fraudbad",
    "sitemaps": [
     {
      "url": "https://fraudbad.com/sitemap.xml",
-     "type": "urlset",
-     "count": 274,
-     "children": []
+     "type": "sitemapindex",
+     "count": 4,
+     "children": [
+      {
+       "loc": "https://fraudbad.com/sitemap-core.xml",
+       "lastmod": "2026-11-22"
+      },
+      {
+       "loc": "https://fraudbad.com/sitemap-cases.xml",
+       "lastmod": "2026-11-22"
+      },
+      {
+       "loc": "https://fraudbad.com/sitemap-states.xml",
+       "lastmod": "2026-11-22"
+      },
+      {
+       "loc": "https://fraudbad.com/sitemap-ledger.xml",
+       "lastmod": "2026-11-22"
+      }
+     ]
     }
    ],
    "first_seen": "2026-11-09",
@@ -511,6 +546,24 @@
     }
    ],
    "first_seen": "2026-11-22",
+   "failing_since": null
+  },
+  {
+   "repo": "labintel",
+   "url": "https://labintel.net/",
+   "kind": "domain",
+   "title": "Frontier Alarm Ledger — LabIntel",
+   "description": "What 4,956 employees of OpenAI, Anthropic, Google DeepMind, Meta, xAI and other frontier AI labs say on X about safety, loss of control and the singularity — every take scored 0–100 on a DEFCON scale. Open source, updated weekly.",
+   "source": "https://github.com/theguysaccount/labintel",
+   "sitemaps": [
+    {
+     "url": "https://labintel.net/sitemap.xml",
+     "type": "urlset",
+     "count": 1,
+     "children": []
+    }
+   ],
+   "first_seen": "2026-11-23",
    "failing_since": null
   },
   {
@@ -892,8 +945,8 @@
    "repo": "set-u-language-genealogy",
    "url": "https://data.set-u.org/",
    "kind": "domain",
-   "title": "*SET-U open data: cited word histories and the etymology graph, free to download",
-   "description": "214 reviewed etymology dossiers with 1,025 cited relationships back to the limits of knowledge, plus every *SET-U dataset as JSON, CSV and SQLite.",
+   "title": "*SET-U Etymology Graph & Open Data — Cited Word Origins",
+   "description": "Explore 214 cited word etymologies, 1,061 historical forms, and 1,025 sourced relationships. Download 27 datasets as JSON, CSV & SQLite.",
    "source": "https://github.com/theguysaccount/set-u-language-genealogy",
    "sitemaps": [
     {
