@@ -1,6 +1,6 @@
 {
  "host": "theguysaccount.github.io",
- "changed_at": "2026-11-24",
+ "changed_at": "2026-11-25",
  "grace_days": 3,
  "sites": [
   {
@@ -241,7 +241,7 @@
     {
      "url": "https://publish.charitology.com/sitemap.xml",
      "type": "urlset",
-     "count": 484,
+     "count": 591,
      "children": []
     }
    ],
@@ -589,7 +589,7 @@
    "url": "https://theguysaccount.github.io/landosaur-land-marketplace/",
    "kind": "path",
    "title": "Landosaur: government and auction land for sale on one map",
-   "description": "10,148 government and auction land offerings on one map: city lots, tax-sale parcels and state land, each linked to the agency's own listing.",
+   "description": "10,125 government and auction land offerings on one map: city lots, tax-sale parcels and state land, each linked to the agency's own listing.",
    "source": "https://github.com/theguysaccount/landosaur-land-marketplace",
    "sitemaps": [
     {
