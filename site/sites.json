@@ -1,6 +1,6 @@
 {
  "host": "theguysaccount.github.io",
- "changed_at": "2026-11-25",
+ "changed_at": "2026-11-26",
  "grace_days": 3,
  "sites": [
   {
@@ -241,7 +241,7 @@
     {
      "url": "https://publish.charitology.com/sitemap.xml",
      "type": "urlset",
-     "count": 591,
+     "count": 598,
      "children": []
     }
    ],
@@ -324,8 +324,8 @@
    "repo": "droid-org",
    "url": "https://market.droid.org/",
    "kind": "domain",
-   "title": "Droid Market",
-   "description": "Supply chain, robotics, and capital formation. Demand is a clock. Supply is a curve.",
+   "title": "Droid Market — Supply Chain, Robotics & Capital Formation",
+   "description": "Droid Market (market.droid.org) focuses on supply chain, robotics, and capital formation. Demand is a clock. Supply is a curve.",
    "source": "https://github.com/theguysaccount/droid-org",
    "sitemaps": [
     {
@@ -451,7 +451,7 @@
    "repo": "humanityschecklist",
    "url": "https://humanityschecklist.org/",
    "kind": "domain",
-   "title": "Humanity's Checklist",
+   "title": "Humanity's Checklist | Six Root Causes of World Problems",
    "description": "Every world problem grows from a few sources. Humanity's Checklist names the six and the beachhead that flips each one, and asks: what if $5 million, spent systemically, was all it took?",
    "source": "https://github.com/theguysaccount/humanityschecklist",
    "sitemaps": [
@@ -589,7 +589,7 @@
    "url": "https://theguysaccount.github.io/landosaur-land-marketplace/",
    "kind": "path",
    "title": "Landosaur: government and auction land for sale on one map",
-   "description": "10,125 government and auction land offerings on one map: city lots, tax-sale parcels and state land, each linked to the agency's own listing.",
+   "description": "10,118 government and auction land offerings on one map: city lots, tax-sale parcels and state land, each linked to the agency's own listing.",
    "source": "https://github.com/theguysaccount/landosaur-land-marketplace",
    "sitemaps": [
     {
@@ -963,7 +963,7 @@
    "repo": "situation-monitor",
    "url": "https://thesituationmonitor.org/",
    "kind": "domain",
-   "title": "The Situation Monitor",
+   "title": "The Situation Monitor — Live Hacks, Breaches and CVEs",
    "description": "I am monitoring the situation. A live board of the hacks, breaches, exploited vulnerabilities and ransomware attacks happening now, from 25 public sources, with a master prompt teams use to check their exposure.",
    "source": "https://github.com/theguysaccount/situation-monitor",
    "sitemaps": [
