@@ -1,6 +1,6 @@
 {
  "host": "theguysaccount.github.io",
- "changed_at": "2026-11-26",
+ "changed_at": "2026-11-27",
  "grace_days": 3,
  "sites": [
   {
@@ -306,8 +306,8 @@
    "repo": "democracys-org-democracy-scores",
    "url": "https://data.democracys.org/",
    "kind": "domain",
-   "title": "Democracy Scores Open Data (1900–2025): CSV, Embeds & Reproducibility | Democracys.org",
-   "description": "Download free democracy scores for 179 countries and territories (1900–2025) from V-Dem (CC BY-SA 4.0): CSV/JSON, embeddable charts, and monthly rebuild checks.",
+   "title": "Democracy Scores Open Data (1900–2025): V-Dem Rankings, CSV & Embeds | Democracys.org",
+   "description": "Download free 1900–2025 V-Dem democracy scores for 179 countries and territories (CC BY-SA 4.0): CSV/JSON, embeddable charts, and monthly rebuild checks.",
    "source": "https://github.com/theguysaccount/democracys-org-democracy-scores",
    "sitemaps": [
     {
@@ -588,8 +588,8 @@
    "repo": "landosaur-land-marketplace",
    "url": "https://theguysaccount.github.io/landosaur-land-marketplace/",
    "kind": "path",
-   "title": "Landosaur: government and auction land for sale on one map",
-   "description": "10,118 government and auction land offerings on one map: city lots, tax-sale parcels and state land, each linked to the agency's own listing.",
+   "title": "Land for Sale Map, 50-State Land Prices & Parcel Analyzer | Landosaur",
+   "description": "Search 14,007 official government, tax-sale, state trust, and land-bank parcels across Alaska, Arkansas, California, Michigan, Missouri, Wisconsin on one interactive map, plus 50-state USDA/FHFA land prices per acre, GIS flood & aerial layers, 29 buyer guides, and a land valuation workbench.",
    "source": "https://github.com/theguysaccount/landosaur-land-marketplace",
    "sitemaps": [
     {
